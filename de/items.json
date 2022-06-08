@@ -1,0 +1,688 @@
+[
+    {
+        "name":"Apfel",
+        "children":[
+           {
+              "description":"1 Apfel = 12 KH",
+              "imagepath":"apfel.jpg"
+           }
+        ]
+     },
+     {
+       "name":"Banane",
+       "children":[
+          {
+             "description":"1 Banane = 30 KH",
+             "imagepath":"banane.jpg"
+          }
+       ]
+    },
+    {
+      "name":"Berliner",
+      "children":[
+         {
+            "description":"1 Berliner = 35 KH",
+            "imagepath":"berliner.jpg"
+         }
+      ]
+   },
+   {
+     "name":"Birne",
+     "children":[
+        {
+           "description":"1 Birne = 12 KH",
+           "imagepath":"birne.jpg"
+        }
+     ]
+  },
+     {
+       "name":"Brot",
+       "children":[
+          {
+             "description":"1 Stück = 13 KH",
+             "imagepath":"brot-dunkel.jpg"
+          },
+          {
+             "description":"1 Stück = 15 KH",
+             "imagepath":"brot-hell.jpg"
+          },
+          {
+             "description":"1 Bagel = 15 KH",
+             "imagepath":"bagel.jpg"
+          }
+       ]
+    },
+    {
+      "name":"Croissant",
+      "children":[
+        {
+            "description":"1 Schokolade = 45 KH",
+            "imagepath":"schokogipfel.jpg"
+         },
+         {
+           "description":"1 Butter = 20 KH",
+           "imagepath":"buttergipfel.jpg"
+        }
+      ]
+   }
+
+   ,
+    {
+      "name":"Donut",
+      "children":[
+         {
+            "description":"1 Donut = 20 KH",
+            "imagepath":"donut.jpg"
+         }
+      ]
+   },
+    {
+      "name":"Kiwi",
+      "children":[
+         {
+            "description":"1 Kiwi = 5 KH",
+            "imagepath":"kiwi.jpg"
+         }
+      ]
+   },
+    {
+      "name":"Milchschnitte",
+      "children":[
+         {
+            "description":"1 Schnitte = 10 KH",
+            "imagepath":"milchschnitte.jpg"
+         }
+      ]
+   },
+    {
+      "name":"Orange",
+      "children":[
+         {
+            "description":"1 Orange = 15 KH",
+            "imagepath":"orange.jpg"
+         }
+      ]
+   },
+    {
+      "name":"Raffaello",
+      "children":[
+         {
+            "description":"1 Raffaello = 4 KH",
+            "imagepath":"raffaello.jpg"
+         }
+      ]
+   },
+    {
+      "name":"Schokolade",
+      "children":[
+         {
+            "description":"1 Tafel = 60 KH",
+            "imagepath":"schokolade.jpg"
+         }
+      ]
+   },
+    {
+      "name":"Zucker",
+      "children":[
+         {
+            "description":"1 Stick = 5 KH",
+            "imagepath":"zucker.jpg"
+         }
+      ]
+   },
+   {
+       "name":"Mandeln",
+       "children":[
+          {
+             "description":"1 Hand /15stk. = 1 KH",
+             "imagepath":"almonds.jpg"
+          }
+       ]
+    },
+    {
+      "name":"Ananas",
+      "children":[
+         {
+            "description":"1 Scheibe = 11 KH",
+            "imagepath":"ananas.jpg"
+         }
+      ]
+   },
+   {
+     "name":"Apfelsaft",
+     "children":[
+        {
+           "description":"1 Becher (2dl) = 20 KH",
+           "imagepath":"apple juice.jpg"
+        }
+     ]
+  },
+  {
+    "name":"Aprikosen",
+    "children":[
+       {
+          "description":"1 stk. = 6 KH",
+          "imagepath":"apricot.jpg"
+       }
+    ]
+ },
+ {
+   "name":"Avocado",
+   "children":[
+      {
+         "description":"1/2 stk. = 0 KH",
+         "imagepath":"avocado.jpg"
+      }
+   ]
+},
+{
+  "name":"Bohnen",
+  "children":[
+     {
+        "description":"1 Schüssel = 15 KH",
+        "imagepath":"beans.jpg"
+     }
+  ]
+},
+{
+  "name":"Brombeeren",
+  "children":[
+     {
+        "description":"1 Beere = 0.2 KH",
+        "imagepath":"blackberry.jpg"
+     }
+  ]
+},
+{
+  "name":"Blaubeeren",
+  "children":[
+     {
+        "description":"1 Beere = 0.1 KH",
+        "imagepath":"blueberry.jpg"
+     }
+  ]
+},
+{
+  "name":"Bounty Schokoriegel",
+  "children":[
+     {
+        "description":"1 Riegel = 17 KH",
+        "imagepath":"bounty.jpg"
+     }
+  ]
+},
+{
+  "name":"Brötchen",
+  "children":[
+     {
+        "description":"1 stk. = 44 KH",
+        "imagepath":"bread roll.jpg"
+     }
+  ]
+},
+{
+  "name":"Broccoli",
+  "children":[
+     {
+        "description":"1 Broccoli = 13 KH",
+        "imagepath":"broccoli.jpg"
+     }
+  ]
+},
+{
+  "name":"Caipirinha",
+  "children":[
+     {
+        "description":"1 Becher (2dl) = 74 KH",
+        "imagepath":"caipirinha.jpg"
+     }
+  ]
+},
+{
+  "name":"Kuchen",
+  "children":[
+     {
+        "description":"1 Schoko = 40 KH",
+        "imagepath":"cake.jpg"
+     }
+  ]
+},
+{
+  "name":"Möhre",
+  "children":[
+     {
+        "description":"1 Möhre = 4 KH",
+        "imagepath":"carrot.jpg"
+     }
+  ]
+},
+{
+  "name":"Cashewnüsse",
+  "children":[
+     {
+        "description":"1 Hand /15stk. = 12 KH",
+        "imagepath":"cashew nut.jpg"
+     }
+  ]
+    },
+    {
+    "name":"Blumenkohl",
+    "children":[
+        {
+            "description":"1 Kohl = 13 KH",
+            "imagepath":"cauliflower.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Kirsche",
+    "children":[
+        {
+            "description":"2 stk. = 2.1 KH",
+            "imagepath":"cherry.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Cola",
+    "children":[
+        {
+            "description":"1 Dose (3.3dl) = 33 KH",
+            "imagepath":"cola.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Gurke",
+    "children":[
+        {
+            "description":"1 Essiggurke = 2 KH",
+            "imagepath":"cucumber1.jpg"
+        },
+        {
+            "description":"1 Salatgurke = 5.4 KH",
+            "imagepath":"cucumber2.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Ei",
+    "children":[
+        {
+            "description":"1 Ei = 10 KH",
+            "imagepath":"egg.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Aubergine",
+    "children":[
+        {
+            "description":"1 stk. = 10 KH",
+            "imagepath":"eggplant.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Fanta",
+    "children":[
+        {
+            "description":"1 Dose (3.3dl) = 30 KH",
+            "imagepath":"fanta.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Fischstäbchen",
+    "children":[
+        {
+            "description":"5 stk. = 20 KH",
+            "imagepath":"fish fingers.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Haselnüsse",
+    "children":[
+        {
+            "description":"1 Hand /15stk. = 1 KH",
+            "imagepath":"hazelnut.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Eis",
+    "children":[
+        {
+            "description":"1 Kugel = 10 KH",
+            "imagepath":"ice cream ball.jpg"
+        },
+        {
+            "description":"1 Eis = 30 KH",
+            "imagepath":"ice cream.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Lauch",
+    "children":[
+        {
+            "description":"1 stk. = 5 KH",
+            "imagepath":"leek.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Zitrone",
+    "children":[
+        {
+            "description":"1 stk. = 2.5 KH",
+            "imagepath":"lemon.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Mais",
+    "children":[
+        {
+            "description":"1 Löffel = 1.9 KH",
+            "imagepath":"mais.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Mango",
+    "children":[
+        {
+            "description":"1 stk. = 15 KH",
+            "imagepath":"mango.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Mars Schokoriegel", 
+    "children":[
+        {
+            "description":"1 Riegel = 35 KH",
+            "imagepath":"mars.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Melone",
+    "children":[
+        {
+            "description":"1 Honigmelone = 65 KH",
+            "imagepath":"melon1.jpg"
+        },
+        {
+            "description":"1 Scheibe Wassermelone = 13 KH",
+            "imagepath":"melon2.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Milch",
+    "children":[
+        {
+            "description":"1 Glas (2dl) = 10 KH",
+            "imagepath":"milk.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Muffin",
+    "children":[
+        {
+            "description":"1 Muffin = 25 KH",
+            "imagepath":"muffin.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Glühwein",
+    "children":[
+        {
+            "description":"1 Glas (2dl) = 30 KH",
+            "imagepath":"mulled wine.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Nektarine",
+    "children":[
+        {
+            "description":"1 stk. = 14 KH",
+            "imagepath":"nectarine.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Öl",
+    "children":[
+        {
+            "description":"Sonnenblumenöl = 0 KH",
+            "imagepath":"oil.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Orangensaft",
+    "children":[
+        {
+            "description":"1 Glas (2dl) = 20 KH",
+            "imagepath":"orange juice.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Ananassaft",
+    "children":[
+        {
+            "description":"1 Glas (2dl) = 22 KH",
+            "imagepath":"ananas juice.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Pfirsich",
+    "children":[
+        {
+            "description":"1 stk. = 12 KH",
+            "imagepath":"peach.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Erbsen",
+    "children":[
+        {
+            "description":"1 kleine portion = 8 KH",
+            "imagepath":"peas.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Pistazien",
+    "children":[
+        {
+            "description":"1 Hand /15stk. = 4 KH",
+            "imagepath":"pistachios.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Kartoffel",
+    "children":[
+        {
+            "description":"1 mittelgrosse = 15 KH",
+            "imagepath":"potato.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Quark",
+    "children":[
+        {
+            "description":"250g = 9 KH",
+            "imagepath":"quark.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Himbeere",
+    "children":[
+        {
+            "description":"1 Beere = 0.5 KH",
+            "imagepath":"raspberry.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Reis",
+    "children":[
+        {
+            "description":"1 Portion = 47 KH",
+            "imagepath":"rice.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Salat",
+    "children":[
+        {
+            "description":"1 Schüssel = 2 KH",
+            "imagepath":"salad.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Snickers Schokoriegel",
+    "children":[
+        {
+            "description":"1 Riegel = 31 KH",
+            "imagepath":"snickers.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Spinat",
+    "children":[
+        {
+            "description":"1 Schüssel = 2 KH",
+            "imagepath":"spinach.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Erdbeeren",
+    "children":[
+        {
+            "description":"1 Beere = 0.7 KH",
+            "imagepath":"strawberry.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Tee",
+    "children":[
+        {
+            "description":"1 Glas (2dl) = 0 KH",
+            "imagepath":"tea.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Tomaten",
+    "children":[
+        {
+            "description":"1 stk. = 3 KH",
+            "imagepath":"tomato.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Tortilla wrap",
+    "children":[
+        {
+            "description":"1 stk. = 21 KH",
+            "imagepath":"tortilla.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Walnüsse",
+    "children":[
+        {
+            "description":"1 Hand /15stk. = 3 KH",
+            "imagepath":"walnuts.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Wein",
+    "children":[
+        {
+            "description":"rot 1 Glas (1dl) = 4 KH",
+            "imagepath":"wine1.jpg"
+        },
+        {
+            "description":"weiss 1 glas (1dl) = 4 KH",
+            "imagepath":"wine2.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Joghurt",
+    "children":[
+        {
+            "description":"150g nature = 6 KH",
+            "imagepath":"yogurt1.jpg"
+        },
+        {
+            "description":"150g frucht = 23 KH",
+            "imagepath":"yogurt2.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Zucchini",
+    "children":[
+        {
+            "description":"1 stk. = 6 KH",
+            "imagepath":"zucchini.jpg"
+        }
+    ]
+    },
+    {
+    "name":"Zwieback",
+    "children":[
+        {
+            "description":"1 stk. = 7 KH",
+            "imagepath":"zwieback.jpg"
+        }
+    ]
+    },
+    {
+        "name":"Basler Leckerli",
+        "children":[
+            {
+                "description":"1 stk. = 6 KH",
+                "imagepath":"basler leckerli1.jpg"
+            },
+            {
+                "description":"3 stk. = 20 KH",
+                "imagepath":"basler leckerli2.jpg"
+            }
+        ]
+    },
+    {
+    "name":"Praline",
+    "children":[
+        {
+            "description":"1 stk. = 7 KH",
+            "imagepath":"praline.jpg"
+        }
+    ]
+    }
+ ]
