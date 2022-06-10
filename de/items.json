@@ -47,6 +47,10 @@
              "imagepath":"brot-hell.jpg"
           },
           {
+             "description":"1 stk. Protein = 4.5 KH",
+             "imagepath":"brot-protein.jpg"
+          },
+          {
              "description":"1 Bagel = 15 KH",
              "imagepath":"bagel.jpg"
           }

@@ -47,6 +47,10 @@
              "imagepath":"brot-hell.jpg"
           },
           {
+             "description":"1 pcs protein = 4.5 carbs",
+             "imagepath":"brot-protein.jpg"
+          },
+          {
              "description":"1 bagel = 15 carbs",
              "imagepath":"bagel.jpg"
           }
