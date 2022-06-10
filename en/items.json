@@ -345,7 +345,7 @@
     "name":"Ice Cream",
     "children":[
         {
-            "description":"1 ball = 10 carbs",
+            "description":"1 ball = 14 carbs",
             "imagepath":"ice cream ball.jpg"
         },
         {
