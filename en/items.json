@@ -304,7 +304,7 @@
     "name":"Egg",
     "children":[
         {
-            "description":"1 egg = 10 carbs",
+            "description":"1 egg = 1 carbs",
             "imagepath":"egg.jpg"
         }
     ]

@@ -313,7 +313,7 @@
     "name":"Ei",
     "children":[
         {
-            "description":"1 Ei = 10 KH",
+            "description":"1 Ei = 1 KH",
             "imagepath":"egg.jpg"
         }
     ]
