@@ -1,674 +1,672 @@
 [
     {
-        "name":"Apple",
-        "children":[
-           {
-              "description":"1 apple = 12 carbs",
-              "imagepath":"apfel.jpg"
-           }
-        ]
-     },
-     {
-       "name":"Banana",
-       "children":[
-          {
-             "description":"1 banana = 30 carbs",
-             "imagepath":"banane.jpg"
-          }
-       ]
-    },
-    {
-      "name":"Berliner",
-      "children":[
-         {
-            "description":"1 berliner = 35 carbs",
-            "imagepath":"berliner.jpg"
-         }
-      ]
-   },
-   {
-     "name":"Pear",
-     "children":[
+      "name": "Apple",
+      "children": [
         {
-           "description":"1 pear = 12 carbs",
-           "imagepath":"birne.jpg"
-        }
-     ]
-  },
-     {
-       "name":"Bread",
-       "children":[
-          {
-             "description":"1 pcs = 13 carbs",
-             "imagepath":"brot-dunkel.jpg"
-          },
-          {
-             "description":"1 pcs = 15 carbs",
-             "imagepath":"brot-hell.jpg"
-          },
-          {
-             "description":"1 pcs protein = 4.5 carbs",
-             "imagepath":"brot-protein.jpg"
-          },
-          {
-             "description":"1 bagel = 15 carbs",
-             "imagepath":"bagel.jpg"
-          }
-       ]
-    },
-    {
-      "name":"Croissant",
-      "children":[
-        {
-            "description":"1 chocolate = 45 carbs",
-            "imagepath":"schokogipfel.jpg"
-         },
-         {
-           "description":"1 butter = 20 carbs",
-           "imagepath":"buttergipfel.jpg"
+          "description": "1 apple = 12 carbs",
+          "imagepath": "apfel.jpg"
         }
       ]
-   }
-
-   ,
-    {
-      "name":"Donut",
-      "children":[
-         {
-            "description":"1 donut = 20 carbs",
-            "imagepath":"donut.jpg"
-         }
-      ]
-   },
-    {
-      "name":"Kiwi",
-      "children":[
-         {
-            "description":"1 kiwi = 5 carbs",
-            "imagepath":"kiwi.jpg"
-         }
-      ]
-   },
-    {
-      "name":"Orange",
-      "children":[
-         {
-            "description":"1 orange = 15 carbs",
-            "imagepath":"orange.jpg"
-         }
-      ]
-   },
-    {
-      "name":"Raffaello",
-      "children":[
-         {
-            "description":"1 pcs = 4 carbs",
-            "imagepath":"raffaello.jpg"
-         }
-      ]
-   },
-    {
-      "name":"Chocolate",
-      "children":[
-         {
-            "description":"1 bar = 60 carbs",
-            "imagepath":"schokolade.jpg"
-         }
-      ]
-   },
-    {
-      "name":"Sugar",
-      "children":[
-         {
-            "description":"1 stick = 5 carbs",
-            "imagepath":"zucker.jpg"
-         }
-      ]
-   },
-   {
-       "name":"Almonds",
-       "children":[
-          {
-             "description":"1 hand /15pcs = 1 carb",
-             "imagepath":"almonds.jpg"
-          }
-       ]
     },
     {
-      "name":"Ananas",
-      "children":[
-         {
-            "description":"1 slice = 11 carbs",
-            "imagepath":"ananas.jpg"
-         }
-      ]
-   },
-   {
-     "name":"Apple juice",
-     "children":[
+      "name": "Banana",
+      "children": [
         {
-           "description":"1 cup (2dl) = 20 carbs",
-           "imagepath":"apple juice.jpg"
+          "description": "1 banana = 30 carbs",
+          "imagepath": "banane.jpg"
         }
-     ]
-  },
-  {
-    "name":"Apricot",
-    "children":[
-       {
-          "description":"1 pcs = 6 carbs",
-          "imagepath":"apricot.jpg"
-       }
-    ]
- },
- {
-   "name":"Avocado",
-   "children":[
-      {
-         "description":"1/2 pcs = 0 carbs",
-         "imagepath":"avocado.jpg"
-      }
-   ]
-},
-{
-  "name":"Beans",
-  "children":[
-     {
-        "description":"1 bowl = 15 carbs",
-        "imagepath":"beans.jpg"
-     }
-  ]
-},
-{
-  "name":"Blackberry",
-  "children":[
-     {
-        "description":"1 berry = 0.2 carbs",
-        "imagepath":"blackberry.jpg"
-     }
-  ]
-},
-{
-  "name":"Blueberry",
-  "children":[
-     {
-        "description":"1 berry = 0.1 carbs",
-        "imagepath":"blueberry.jpg"
-     }
-  ]
-},
-{
-  "name":"Bounty chocolate bar",
-  "children":[
-     {
-        "description":"1 bar = 17 carbs",
-        "imagepath":"bounty.jpg"
-     }
-  ]
-},
-{
-  "name":"Bread roll",
-  "children":[
-     {
-        "description":"1 roll = 44 carbs",
-        "imagepath":"bread roll.jpg"
-     }
-  ]
-},
-{
-  "name":"Broccoli",
-  "children":[
-     {
-        "description":"1 broccoli = 13 carbs",
-        "imagepath":"broccoli.jpg"
-     }
-  ]
-},
-{
-  "name":"Caipirinha",
-  "children":[
-     {
-        "description":"1 cup (2dl) = 74 carbs",
-        "imagepath":"caipirinha.jpg"
-     }
-  ]
-},
-{
-  "name":"Cake",
-  "children":[
-     {
-        "description":"1 chocolate = 40 carbs",
-        "imagepath":"cake.jpg"
-     }
-  ]
-},
-{
-  "name":"Carrot",
-  "children":[
-     {
-        "description":"1 carrot = 4 carbs",
-        "imagepath":"carrot.jpg"
-     }
-  ]
-},
-{
-  "name":"Cashew nuts",
-  "children":[
-     {
-        "description":"1 hand /15pcs = 12 carb",
-        "imagepath":"cashew nut.jpg"
-     }
-  ]
+      ]
     },
     {
-    "name":"Cauliflower",
-    "children":[
+      "name": "Berliner",
+      "children": [
         {
-            "description":"1 cauliflower = 13 carbs",
-            "imagepath":"cauliflower.jpg"
+          "description": "1 berliner = 35 carbs",
+          "imagepath": "berliner.jpg"
         }
-    ]
+      ]
     },
     {
-    "name":"Cherry",
-    "children":[
+      "name": "Pear",
+      "children": [
         {
-            "description":"2 pcs = 2.1 carbs",
-            "imagepath":"cherry.jpg"
+          "description": "1 pear = 12 carbs",
+          "imagepath": "birne.jpg"
         }
-    ]
+      ]
     },
     {
-    "name":"Coke",
-    "children":[
+      "name": "Bread",
+      "children": [
         {
-            "description":"1 can (3.3dl) = 33 carbs",
-            "imagepath":"cola.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Cucumber/Pickle",
-    "children":[
-        {
-            "description":"1 pickle = 2 carbs",
-            "imagepath":"cucumber1.jpg"
+          "description": "1 pcs = 13 carbs",
+          "imagepath": "brot-dunkel.jpg"
         },
         {
-            "description":"1 cucumber = 5.4 carbs",
-            "imagepath":"cucumber2.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Egg",
-    "children":[
-        {
-            "description":"1 egg = 1 carbs",
-            "imagepath":"egg.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Eggplant",
-    "children":[
-        {
-            "description":"1 pcs = 10 carbs",
-            "imagepath":"eggplant.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Fanta",
-    "children":[
-        {
-            "description":"1 can (3.3dl) = 30 carbs",
-            "imagepath":"fanta.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Fish fingers",
-    "children":[
-        {
-            "description":"5 pcs = 20 carbs",
-            "imagepath":"fish fingers.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Hazelnuts",
-    "children":[
-        {
-            "description":"1 hand /15pcs = 1 carb",
-            "imagepath":"hazelnut.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Ice Cream",
-    "children":[
-        {
-            "description":"1 ball = 14 carbs",
-            "imagepath":"ice cream ball.jpg"
+          "description": "1 pcs = 15 carbs",
+          "imagepath": "brot-hell.jpg"
         },
         {
-            "description":"1 ice cream = 30 carbs",
-            "imagepath":"ice cream.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Leek",
-    "children":[
-        {
-            "description":"1 pcs = 5 carbs",
-            "imagepath":"leek.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Lemon",
-    "children":[
-        {
-            "description":"1 pcs = 2.5 carbs",
-            "imagepath":"lemon.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Mais",
-    "children":[
-        {
-            "description":"1 spoon = 1.9 carbs",
-            "imagepath":"mais.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Mango",
-    "children":[
-        {
-            "description":"1 mid-sized = 27 carbs",
-            "imagepath":"mango.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Mars chocolate bar", 
-    "children":[
-        {
-            "description":"1 bar = 35 carbs",
-            "imagepath":"mars.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Melon",
-    "children":[
-        {
-            "description":"1 honey melon = 65 carbs",
-            "imagepath":"melon1.jpg"
+          "description": "1 pcs protein = 4.5 carbs",
+          "imagepath": "brot-protein.jpg"
         },
         {
-            "description":"1 slice water melon = 13 carbs",
-            "imagepath":"melon2.jpg"
+          "description": "1 bagel = 15 carbs",
+          "imagepath": "bagel.jpg"
         }
-    ]
+      ]
     },
     {
-    "name":"Milk",
-    "children":[
+      "name": "Croissant",
+      "children": [
         {
-            "description":"1 cup (2dl) = 10 carbs",
-            "imagepath":"milk.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Muffin",
-    "children":[
-        {
-            "description":"1 muffin = 25 carbs",
-            "imagepath":"muffin.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Mulled wine",
-    "children":[
-        {
-            "description":"1 cup (2dl) = 30 carbs",
-            "imagepath":"mulled wine.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Nectarine",
-    "children":[
-        {
-            "description":"1 pcs = 14 carbs",
-            "imagepath":"nectarine.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Oil",
-    "children":[
-        {
-            "description":"sunflower oil = 0 carbs",
-            "imagepath":"oil.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Orange juice",
-    "children":[
-        {
-            "description":"1 cup (2dl) = 20 carbs",
-            "imagepath":"orange juice.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Ananas juice",
-    "children":[
-        {
-            "description":"1 cup (2dl) = 22 carbs",
-            "imagepath":"ananas juice.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Peach",
-    "children":[
-        {
-            "description":"1 pcs = 12 carbs",
-            "imagepath":"peach.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Peas",
-    "children":[
-        {
-            "description":"1 small portion = 8 carbs",
-            "imagepath":"peas.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Pistachios",
-    "children":[
-        {
-            "description":"1 hand /15pcs = 4 carbs",
-            "imagepath":"pistachios.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Potato",
-    "children":[
-        {
-            "description":"1 mid-sized = 15 carbs",
-            "imagepath":"potato.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Quark",
-    "children":[
-        {
-            "description":"250g = 9 carbs",
-            "imagepath":"quark.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Raspberry",
-    "children":[
-        {
-            "description":"1 berry = 0.5 carbs",
-            "imagepath":"raspberry.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Rice",
-    "children":[
-        {
-            "description":"1 portion = 47 carbs",
-            "imagepath":"rice.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Salad",
-    "children":[
-        {
-            "description":"1 bowl = 2 carbs",
-            "imagepath":"salad.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Snickers chocolate bar",
-    "children":[
-        {
-            "description":"1 bar = 31 carbs",
-            "imagepath":"snickers.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Spinach",
-    "children":[
-        {
-            "description":"1 bowl = 2 carbs",
-            "imagepath":"spinach.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Strawberry",
-    "children":[
-        {
-            "description":"1 berry = 0.7 carbs",
-            "imagepath":"strawberry.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Tea",
-    "children":[
-        {
-            "description":"1 cup (2dl) = 0 carbs",
-            "imagepath":"tea.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Tomato",
-    "children":[
-        {
-            "description":"1 pcs = 3 carbs",
-            "imagepath":"tomato.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Tortilla wrap",
-    "children":[
-        {
-            "description":"1 pcs = 21 carbs",
-            "imagepath":"tortilla.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Walnuts",
-    "children":[
-        {
-            "description":"1 hand /15pcs = 3 carbs",
-            "imagepath":"walnuts.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Wine",
-    "children":[
-        {
-            "description":"red 1 glass (1dl) = 4 carbs",
-            "imagepath":"wine1.jpg"
+          "description": "1 chocolate = 45 carbs",
+          "imagepath": "schokogipfel.jpg"
         },
         {
-            "description":"white 1 glass (1dl) = 4 carbs",
-            "imagepath":"wine2.jpg"
+          "description": "1 butter = 20 carbs",
+          "imagepath": "buttergipfel.jpg"
         }
-    ]
+      ]
     },
     {
-    "name":"Yogurt",
-    "children":[
+      "name": "Donut",
+      "children": [
         {
-            "description":"150g traditional = 6 carbs",
-            "imagepath":"yogurt1.jpg"
+          "description": "1 donut = 20 carbs",
+          "imagepath": "donut.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kiwi",
+      "children": [
+        {
+          "description": "1 kiwi = 5 carbs",
+          "imagepath": "kiwi.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Orange",
+      "children": [
+        {
+          "description": "1 orange = 15 carbs",
+          "imagepath": "orange.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Raffaello",
+      "children": [
+        {
+          "description": "1 pcs = 4 carbs",
+          "imagepath": "raffaello.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chocolate",
+      "children": [
+        {
+          "description": "1 bar = 60 carbs",
+          "imagepath": "schokolade.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sugar",
+      "children": [
+        {
+          "description": "1 stick = 5 carbs",
+          "imagepath": "zucker.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Almonds",
+      "children": [
+        {
+          "description": "1 hand /15pcs = 1 carb",
+          "imagepath": "almonds.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ananas",
+      "children": [
+        {
+          "description": "1 slice = 11 carbs",
+          "imagepath": "ananas.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Apple juice",
+      "children": [
+        {
+          "description": "1 cup (2dl) = 20 carbs",
+          "imagepath": "apple juice.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Apricot",
+      "children": [
+        {
+          "description": "1 pcs = 6 carbs",
+          "imagepath": "apricot.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Avocado",
+      "children": [
+        {
+          "description": "1/2 pcs = 0 carbs",
+          "imagepath": "avocado.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Beans",
+      "children": [
+        {
+          "description": "1 bowl = 15 carbs",
+          "imagepath": "beans.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Blackberry",
+      "children": [
+        {
+          "description": "1 berry = 0.2 carbs",
+          "imagepath": "blackberry.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Blueberry",
+      "children": [
+        {
+          "description": "1 berry = 0.1 carbs",
+          "imagepath": "blueberry.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bounty chocolate bar",
+      "children": [
+        {
+          "description": "1 bar = 17 carbs",
+          "imagepath": "bounty.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bread roll",
+      "children": [
+        {
+          "description": "1 roll = 44 carbs",
+          "imagepath": "bread roll.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Broccoli",
+      "children": [
+        {
+          "description": "1 broccoli = 13 carbs",
+          "imagepath": "broccoli.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Caipirinha",
+      "children": [
+        {
+          "description": "1 cup (2dl) = 74 carbs",
+          "imagepath": "caipirinha.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Cake",
+      "children": [
+        {
+          "description": "1 chocolate = 40 carbs",
+          "imagepath": "cake.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Carrot",
+      "children": [
+        {
+          "description": "1 carrot = 4 carbs",
+          "imagepath": "carrot.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Cashew nuts",
+      "children": [
+        {
+          "description": "1 hand /15pcs = 12 carb",
+          "imagepath": "cashew nut.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Cauliflower",
+      "children": [
+        {
+          "description": "1 cauliflower = 13 carbs",
+          "imagepath": "cauliflower.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Cherry",
+      "children": [
+        {
+          "description": "2 pcs = 2.1 carbs",
+          "imagepath": "cherry.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Coke",
+      "children": [
+        {
+          "description": "1 can (3.3dl) = 33 carbs",
+          "imagepath": "cola.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Cucumber/Pickle",
+      "children": [
+        {
+          "description": "1 pickle = 2 carbs",
+          "imagepath": "cucumber1.jpg"
         },
         {
-            "description":"150g fruit = 23 carbs",
-            "imagepath":"yogurt2.jpg"
+          "description": "1 cucumber = 5.4 carbs",
+          "imagepath": "cucumber2.jpg"
         }
-    ]
+      ]
     },
     {
-    "name":"Zucchini",
-    "children":[
+      "name": "Egg",
+      "children": [
         {
-            "description":"1 pcs = 6 carbs",
-            "imagepath":"zucchini.jpg"
+          "description": "1 egg = 1 carbs",
+          "imagepath": "egg.jpg"
         }
-    ]
+      ]
     },
     {
-        "name":"Praline",
-        "children":[
-            {
-                "description":"1 pcs. = 7 carbs",
-                "imagepath":"praline.jpg"
-            }
-        ]
+      "name": "Eggplant",
+      "children": [
+        {
+          "description": "1 pcs = 10 carbs",
+          "imagepath": "eggplant.jpg"
+        }
+      ]
     },
     {
-        "name":"Potato chips",
-        "children":[
-            {
-                "description":"1 hand = 11 carbs",
-                "imagepath":"chips_20g.jpg"
-            },
-            {
-                "description":"1 portion = 16 carbs",
-                "imagepath":"chips_30g.jpg"
-            }
-        ]
+      "name": "Fanta",
+      "children": [
+        {
+          "description": "1 can (3.3dl) = 30 carbs",
+          "imagepath": "fanta.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Fish fingers",
+      "children": [
+        {
+          "description": "5 pcs = 20 carbs",
+          "imagepath": "fish fingers.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hazelnuts",
+      "children": [
+        {
+          "description": "1 hand /15pcs = 1 carb",
+          "imagepath": "hazelnut.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ice Cream",
+      "children": [
+        {
+          "description": "1 ball = 14 carbs",
+          "imagepath": "ice cream ball.jpg"
+        },
+        {
+          "description": "1 ice cream = 30 carbs",
+          "imagepath": "ice cream.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Leek",
+      "children": [
+        {
+          "description": "1 pcs = 5 carbs",
+          "imagepath": "leek.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Lemon",
+      "children": [
+        {
+          "description": "1 pcs = 2.5 carbs",
+          "imagepath": "lemon.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mais",
+      "children": [
+        {
+          "description": "1 spoon = 1.9 carbs",
+          "imagepath": "mais.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mango",
+      "children": [
+        {
+          "description": "1 mid-sized = 27 carbs",
+          "imagepath": "mango.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mars chocolate bar",
+      "children": [
+        {
+          "description": "1 bar = 35 carbs",
+          "imagepath": "mars.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Melon",
+      "children": [
+        {
+          "description": "1 honey melon = 65 carbs",
+          "imagepath": "melon1.jpg"
+        },
+        {
+          "description": "1 slice water melon = 13 carbs",
+          "imagepath": "melon2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Milk",
+      "children": [
+        {
+          "description": "1 cup (2dl) = 10 carbs",
+          "imagepath": "milk.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Muffin",
+      "children": [
+        {
+          "description": "1 muffin = 25 carbs",
+          "imagepath": "muffin.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mulled wine",
+      "children": [
+        {
+          "description": "1 cup (2dl) = 30 carbs",
+          "imagepath": "mulled wine.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nectarine",
+      "children": [
+        {
+          "description": "1 pcs = 14 carbs",
+          "imagepath": "nectarine.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Oil",
+      "children": [
+        {
+          "description": "sunflower oil = 0 carbs",
+          "imagepath": "oil.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Orange juice",
+      "children": [
+        {
+          "description": "1 cup (2dl) = 20 carbs",
+          "imagepath": "orange juice.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ananas juice",
+      "children": [
+        {
+          "description": "1 cup (2dl) = 22 carbs",
+          "imagepath": "ananas juice.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Peach",
+      "children": [
+        {
+          "description": "1 pcs = 12 carbs",
+          "imagepath": "peach.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Peas",
+      "children": [
+        {
+          "description": "1 small portion = 8 carbs",
+          "imagepath": "peas.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pistachios",
+      "children": [
+        {
+          "description": "1 hand /15pcs = 4 carbs",
+          "imagepath": "pistachios.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Potato",
+      "children": [
+        {
+          "description": "1 mid-sized = 15 carbs",
+          "imagepath": "potato.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Quark",
+      "children": [
+        {
+          "description": "250g = 9 carbs",
+          "imagepath": "quark.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Raspberry",
+      "children": [
+        {
+          "description": "1 berry = 0.5 carbs",
+          "imagepath": "raspberry.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Rice",
+      "children": [
+        {
+          "description": "1 portion = 47 carbs",
+          "imagepath": "rice.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Salad",
+      "children": [
+        {
+          "description": "1 bowl = 2 carbs",
+          "imagepath": "salad.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Snickers chocolate bar",
+      "children": [
+        {
+          "description": "1 bar = 31 carbs",
+          "imagepath": "snickers.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Spinach",
+      "children": [
+        {
+          "description": "1 bowl = 2 carbs",
+          "imagepath": "spinach.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Strawberry",
+      "children": [
+        {
+          "description": "1 berry = 0.7 carbs",
+          "imagepath": "strawberry.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Tea",
+      "children": [
+        {
+          "description": "1 cup (2dl) = 0 carbs",
+          "imagepath": "tea.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Tomato",
+      "children": [
+        {
+          "description": "1 pcs = 3 carbs",
+          "imagepath": "tomato.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Tortilla wrap",
+      "children": [
+        {
+          "description": "1 pcs = 21 carbs",
+          "imagepath": "tortilla.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Walnuts",
+      "children": [
+        {
+          "description": "1 hand /15pcs = 3 carbs",
+          "imagepath": "walnuts.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Wine",
+      "children": [
+        {
+          "description": "red 1 glass (1dl) = 4 carbs",
+          "imagepath": "wine1.jpg"
+        },
+        {
+          "description": "white 1 glass (1dl) = 4 carbs",
+          "imagepath": "wine2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Yogurt",
+      "children": [
+        {
+          "description": "150g traditional = 6 carbs",
+          "imagepath": "yogurt1.jpg"
+        },
+        {
+          "description": "150g fruit = 23 carbs",
+          "imagepath": "yogurt2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Zucchini",
+      "children": [
+        {
+          "description": "1 pcs = 6 carbs",
+          "imagepath": "zucchini.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Praline",
+      "children": [
+        {
+          "description": "1 pcs. = 7 carbs",
+          "imagepath": "praline.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Potato chips",
+      "children": [
+        {
+          "description": "1 hand = 11 carbs",
+          "imagepath": "chips_20g.jpg"
+        },
+        {
+          "description": "1 portion = 16 carbs",
+          "imagepath": "chips_30g.jpg"
+        }
+      ]
     }
- ]
+  ]

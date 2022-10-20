@@ -1,789 +1,787 @@
 [
     {
-        "name":"Apfel",
-        "children":[
-           {
-              "description":"1 Apfel",
-              "value": 12.0,
-              "imagepath":"apfel.jpg"
-           }
-        ]
-     },
-     {
-       "name":"Banane",
-       "children":[
-          {
-             "description":"1 Banane",
-             "value": 30.0,
-             "imagepath":"banane.jpg"
-          }
-       ]
-    },
-    {
-      "name":"Berliner",
-      "children":[
-         {
-            "description":"1 Berliner",
-            "value": 35.0,
-            "imagepath":"berliner.jpg"
-         }
-      ]
-   },
-   {
-     "name":"Birne",
-     "children":[
+      "name": "Apfel",
+      "children": [
         {
-           "description":"1 Birne",
-           "value": 12.0,
-           "imagepath":"birne.jpg"
-        }
-     ]
-  },
-     {
-       "name":"Brot",
-       "children":[
-          {
-             "description":"1 Stück",
-             "value": 13.0,
-             "imagepath":"brot-dunkel.jpg"
-          },
-          {
-             "description":"1 Stück",
-             "value": 15.0,
-             "imagepath":"brot-hell.jpg"
-          },
-          {
-             "description":"1 stk. Protein",
-             "value": 4.5,
-             "imagepath":"brot-protein.jpg"
-          },
-          {
-             "description":"1 Bagel",
-             "value": 15.0,
-             "imagepath":"bagel.jpg"
-          }
-       ]
-    },
-    {
-      "name":"Croissant",
-      "children":[
-        {
-            "description":"1 Schokolade",
-            "value": 45.0,
-            "imagepath":"schokogipfel.jpg"
-         },
-         {
-           "description":"1 Butter",
-           "value": 20.0,
-           "imagepath":"buttergipfel.jpg"
+          "description": "1 Apfel",
+          "value": 12,
+          "imagepath": "apfel.jpg"
         }
       ]
-   }
-
-   ,
-    {
-      "name":"Donut",
-      "children":[
-         {
-            "description":"1 Donut",
-            "value": 20.0,
-            "imagepath":"donut.jpg"
-         }
-      ]
-   },
-    {
-      "name":"Kiwi",
-      "children":[
-         {
-            "description":"1 Kiwi",
-            "value": 5.0,
-            "imagepath":"kiwi.jpg"
-         }
-      ]
-   },
-    {
-      "name":"Milchschnitte",
-      "children":[
-         {
-            "description":"1 Schnitte",
-            "value": 10.0,
-            "imagepath":"milchschnitte.jpg"
-         }
-      ]
-   },
-    {
-      "name":"Orange",
-      "children":[
-         {
-            "description":"1 Orange",
-            "value": 15.0,
-            "imagepath":"orange.jpg"
-         }
-      ]
-   },
-    {
-      "name":"Raffaello",
-      "children":[
-         {
-            "description":"1 Raffaello",
-            "value": 4.0,
-            "imagepath":"raffaello.jpg"
-         }
-      ]
-   },
-    {
-      "name":"Schokolade",
-      "children":[
-         {
-            "description":"1 Tafel",
-            "value": 60.0,
-            "imagepath":"schokolade.jpg"
-         }
-      ]
-   },
-    {
-      "name":"Zucker",
-      "children":[
-         {
-            "description":"1 Stick",
-            "value": 5.0,
-            "imagepath":"zucker.jpg"
-         }
-      ]
-   },
-   {
-       "name":"Mandeln",
-       "children":[
-          {
-             "description":"1 Hand /15stk.",
-             "value": 1.0,
-             "imagepath":"almonds.jpg"
-          }
-       ]
     },
     {
-      "name":"Ananas",
-      "children":[
-         {
-            "description":"1 Scheibe",
-            "value": 11.0,
-            "imagepath":"ananas.jpg"
-         }
-      ]
-   },
-   {
-     "name":"Apfelsaft",
-     "children":[
+      "name": "Banane",
+      "children": [
         {
-           "description":"1 Becher (2dl)",
-           "value": 20.0,
-           "imagepath":"apple juice.jpg"
+          "description": "1 Banane",
+          "value": 30,
+          "imagepath": "banane.jpg"
         }
-     ]
-  },
-  {
-    "name":"Aprikosen",
-    "children":[
-       {
-          "description":"1 stk.",
-          "value": 6.0,
-          "imagepath":"apricot.jpg"
-       }
-    ]
- },
- {
-   "name":"Avocado",
-   "children":[
-      {
-         "description":"1/2 stk.",
-         "value": 0.0,
-         "imagepath":"avocado.jpg"
-      }
-   ]
-},
-{
-  "name":"Bohnen",
-  "children":[
-     {
-        "description":"1 Schüssel",
-        "value": 15.0,
-        "imagepath":"beans.jpg"
-     }
-  ]
-},
-{
-  "name":"Brombeeren",
-  "children":[
-     {
-        "description":"1 Beere",
-        "value": 0.2,
-        "imagepath":"blackberry.jpg"
-     }
-  ]
-},
-{
-  "name":"Blaubeeren",
-  "children":[
-     {
-        "description":"1 Beere",
-        "value": 0.1,
-        "imagepath":"blueberry.jpg"
-     }
-  ]
-},
-{
-  "name":"Bounty Schokoriegel",
-  "children":[
-     {
-        "description":"1 Riegel",
-        "value": 17.0,
-        "imagepath":"bounty.jpg"
-     }
-  ]
-},
-{
-  "name":"Brötchen",
-  "children":[
-     {
-        "description":"1 stk.",
-        "value": 44.0,
-        "imagepath":"bread roll.jpg"
-     }
-  ]
-},
-{
-  "name":"Broccoli",
-  "children":[
-     {
-        "description":"1 Broccoli",
-        "value": 13.0,
-        "imagepath":"broccoli.jpg"
-     }
-  ]
-},
-{
-  "name":"Caipirinha",
-  "children":[
-     {
-        "description":"1 Becher (2dl)",
-        "value": 74.0,
-        "imagepath":"caipirinha.jpg"
-     }
-  ]
-},
-{
-  "name":"Kuchen",
-  "children":[
-     {
-        "description":"1 Schoko",
-        "value": 40.0,
-        "imagepath":"cake.jpg"
-     }
-  ]
-},
-{
-  "name":"Möhre",
-  "children":[
-     {
-        "description":"1 Möhre",
-        "value": 4.0,
-        "imagepath":"carrot.jpg"
-     }
-  ]
-},
-{
-  "name":"Cashewnüsse",
-  "children":[
-     {
-        "description":"1 Hand /15stk.",
-        "value": 12.0,
-        "imagepath":"cashew nut.jpg"
-     }
-  ]
+      ]
     },
     {
-    "name":"Blumenkohl",
-    "children":[
+      "name": "Berliner",
+      "children": [
         {
-            "description":"1 Kohl",
-            "value": 13.0,
-            "imagepath":"cauliflower.jpg"
+          "description": "1 Berliner",
+          "value": 35,
+          "imagepath": "berliner.jpg"
         }
-    ]
+      ]
     },
     {
-    "name":"Kirsche",
-    "children":[
+      "name": "Birne",
+      "children": [
         {
-            "description":"2 stk.",
-            "value": 2.1,
-            "imagepath":"cherry.jpg"
+          "description": "1 Birne",
+          "value": 12,
+          "imagepath": "birne.jpg"
         }
-    ]
+      ]
     },
     {
-    "name":"Cola",
-    "children":[
+      "name": "Brot",
+      "children": [
         {
-            "description":"1 Dose (3.3dl)",
-            "value": 33.0,
-            "imagepath":"cola.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Gurke",
-    "children":[
-        {
-            "description":"1 Essiggurke",
-            "value": 2.0,
-            "imagepath":"cucumber1.jpg"
+          "description": "1 Stück",
+          "value": 13,
+          "imagepath": "brot-dunkel.jpg"
         },
         {
-            "description":"1 Salatgurke",
-            "value": 5.4,
-            "imagepath":"cucumber2.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Ei",
-    "children":[
-        {
-            "description":"1 Ei",
-            "value": 1.0,
-            "imagepath":"egg.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Aubergine",
-    "children":[
-        {
-            "description":"1 stk.",
-            "value": 10.0,
-            "imagepath":"eggplant.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Fanta",
-    "children":[
-        {
-            "description":"1 Dose (3.3dl)",
-            "value": 30.0,
-            "imagepath":"fanta.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Fischstäbchen",
-    "children":[
-        {
-            "description":"5 stk.",
-            "value": 20.0,
-            "imagepath":"fish fingers.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Haselnüsse",
-    "children":[
-        {
-            "description":"1 Hand /15stk.",
-            "value": 1.0,
-            "imagepath":"hazelnut.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Eis",
-    "children":[
-        {
-            "description":"1 Kugel",
-            "value": 14.0,
-            "imagepath":"ice cream ball.jpg"
+          "description": "1 Stück",
+          "value": 15,
+          "imagepath": "brot-hell.jpg"
         },
         {
-            "description":"1 Eis",
-            "value": 30.0,
-            "imagepath":"ice cream.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Lauch",
-    "children":[
-        {
-            "description":"1 stk.",
-            "value": 5.0,
-            "imagepath":"leek.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Zitrone",
-    "children":[
-        {
-            "description":"1 stk.",
-            "value": 2.5,
-            "imagepath":"lemon.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Mais",
-    "children":[
-        {
-            "description":"1 Löffel",
-            "value": 1.9,
-            "imagepath":"mais.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Mango",
-    "children":[
-        {
-            "description":"1 mittelgrosse",
-            "value": 27.0,
-            "imagepath":"mango.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Mars Schokoriegel", 
-    "children":[
-        {
-            "description":"1 Riegel",
-            "value": 35.0,
-            "imagepath":"mars.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Melone",
-    "children":[
-        {
-            "description":"1 Honigmelone",
-            "value": 65.0,
-            "imagepath":"melon1.jpg"
+          "description": "1 stk. Protein",
+          "value": 4.5,
+          "imagepath": "brot-protein.jpg"
         },
         {
-            "description":"1 Scheibe Wassermelone",
-            "value": 13.0,
-            "imagepath":"melon2.jpg"
+          "description": "1 Bagel",
+          "value": 15,
+          "imagepath": "bagel.jpg"
         }
-    ]
+      ]
     },
     {
-    "name":"Milch",
-    "children":[
+      "name": "Croissant",
+      "children": [
         {
-            "description":"1 Glas (2dl)",
-            "value": 10.0,
-            "imagepath":"milk.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Muffin",
-    "children":[
-        {
-            "description":"1 Muffin",
-            "value": 25.0,
-            "imagepath":"muffin.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Glühwein",
-    "children":[
-        {
-            "description":"1 Glas (2dl)",
-            "value": 30.0,
-            "imagepath":"mulled wine.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Nektarine",
-    "children":[
-        {
-            "description":"1 stk.",
-            "value": 14.0,
-            "imagepath":"nectarine.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Öl",
-    "children":[
-        {
-            "description":"Sonnenblumenöl",
-            "value": 0.0,
-            "imagepath":"oil.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Orangensaft",
-    "children":[
-        {
-            "description":"1 Glas (2dl)",
-            "value": 20.0,
-            "imagepath":"orange juice.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Ananassaft",
-    "children":[
-        {
-            "description":"1 Glas (2dl)",
-            "value": 22.0,
-            "imagepath":"ananas juice.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Pfirsich",
-    "children":[
-        {
-            "description":"1 stk.",
-            "value": 12.0,
-            "imagepath":"peach.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Erbsen",
-    "children":[
-        {
-            "description":"1 kleine portion",
-            "value": 8.0,
-            "imagepath":"peas.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Pistazien",
-    "children":[
-        {
-            "description":"1 Hand /15stk.",
-            "value": 4.0,
-            "imagepath":"pistachios.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Kartoffel",
-    "children":[
-        {
-            "description":"1 mittelgrosse",
-            "value": 15.0,
-            "imagepath":"potato.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Quark",
-    "children":[
-        {
-            "description":"250g",
-            "value": 9.0,
-            "imagepath":"quark.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Himbeere",
-    "children":[
-        {
-            "description":"1 Beere",
-            "value": 0.5,
-            "imagepath":"raspberry.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Reis",
-    "children":[
-        {
-            "description":"1 Portion",
-            "value": 47.0,
-            "imagepath":"rice.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Salat",
-    "children":[
-        {
-            "description":"1 Schüssel",
-            "value": 2.0,
-            "imagepath":"salad.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Snickers Schokoriegel",
-    "children":[
-        {
-            "description":"1 Riegel",
-            "value": 31.0,
-            "imagepath":"snickers.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Spinat",
-    "children":[
-        {
-            "description":"1 Schüssel",
-            "value": 2.0,
-            "imagepath":"spinach.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Erdbeeren",
-    "children":[
-        {
-            "description":"1 Beere",
-            "value": 0.7,
-            "imagepath":"strawberry.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Tee",
-    "children":[
-        {
-            "description":"1 Glas (2dl)",
-            "value": 0.0,
-            "imagepath":"tea.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Tomaten",
-    "children":[
-        {
-            "description":"1 stk.",
-            "value": 3.0,
-            "imagepath":"tomato.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Tortilla wrap",
-    "children":[
-        {
-            "description":"1 stk.",
-            "value": 21.0,
-            "imagepath":"tortilla.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Walnüsse",
-    "children":[
-        {
-            "description":"1 Hand /15stk.",
-            "value": 3.0,
-            "imagepath":"walnuts.jpg"
-        }
-    ]
-    },
-    {
-    "name":"Wein",
-    "children":[
-        {
-            "description":"rot 1 Glas (1dl)",
-            "value": 4.0,
-            "imagepath":"wine1.jpg"
+          "description": "1 Schokolade",
+          "value": 45,
+          "imagepath": "schokogipfel.jpg"
         },
         {
-            "description":"weiss 1 glas (1dl)",
-            "value": 4.0,
-            "imagepath":"wine2.jpg"
+          "description": "1 Butter",
+          "value": 20,
+          "imagepath": "buttergipfel.jpg"
         }
-    ]
+      ]
     },
     {
-    "name":"Joghurt",
-    "children":[
+      "name": "Donut",
+      "children": [
         {
-            "description":"150g nature",
-            "value": 6.0,
-            "imagepath":"yogurt1.jpg"
+          "description": "1 Donut",
+          "value": 20,
+          "imagepath": "donut.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kiwi",
+      "children": [
+        {
+          "description": "1 Kiwi",
+          "value": 5,
+          "imagepath": "kiwi.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Milchschnitte",
+      "children": [
+        {
+          "description": "1 Schnitte",
+          "value": 10,
+          "imagepath": "milchschnitte.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Orange",
+      "children": [
+        {
+          "description": "1 Orange",
+          "value": 15,
+          "imagepath": "orange.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Raffaello",
+      "children": [
+        {
+          "description": "1 Raffaello",
+          "value": 4,
+          "imagepath": "raffaello.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Schokolade",
+      "children": [
+        {
+          "description": "1 Tafel",
+          "value": 60,
+          "imagepath": "schokolade.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Zucker",
+      "children": [
+        {
+          "description": "1 Stick",
+          "value": 5,
+          "imagepath": "zucker.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mandeln",
+      "children": [
+        {
+          "description": "1 Hand /15stk.",
+          "value": 1,
+          "imagepath": "almonds.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ananas",
+      "children": [
+        {
+          "description": "1 Scheibe",
+          "value": 11,
+          "imagepath": "ananas.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Apfelsaft",
+      "children": [
+        {
+          "description": "1 Becher (2dl)",
+          "value": 20,
+          "imagepath": "apple juice.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Aprikosen",
+      "children": [
+        {
+          "description": "1 stk.",
+          "value": 6,
+          "imagepath": "apricot.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Avocado",
+      "children": [
+        {
+          "description": "1/2 stk.",
+          "value": 0,
+          "imagepath": "avocado.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bohnen",
+      "children": [
+        {
+          "description": "1 Schüssel",
+          "value": 15,
+          "imagepath": "beans.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Brombeeren",
+      "children": [
+        {
+          "description": "1 Beere",
+          "value": 0.2,
+          "imagepath": "blackberry.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Blaubeeren",
+      "children": [
+        {
+          "description": "1 Beere",
+          "value": 0.1,
+          "imagepath": "blueberry.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bounty Schokoriegel",
+      "children": [
+        {
+          "description": "1 Riegel",
+          "value": 17,
+          "imagepath": "bounty.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Brötchen",
+      "children": [
+        {
+          "description": "1 stk.",
+          "value": 44,
+          "imagepath": "bread roll.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Broccoli",
+      "children": [
+        {
+          "description": "1 Broccoli",
+          "value": 13,
+          "imagepath": "broccoli.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Caipirinha",
+      "children": [
+        {
+          "description": "1 Becher (2dl)",
+          "value": 74,
+          "imagepath": "caipirinha.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kuchen",
+      "children": [
+        {
+          "description": "1 Schoko",
+          "value": 40,
+          "imagepath": "cake.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Möhre",
+      "children": [
+        {
+          "description": "1 Möhre",
+          "value": 4,
+          "imagepath": "carrot.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Cashewnüsse",
+      "children": [
+        {
+          "description": "1 Hand /15stk.",
+          "value": 12,
+          "imagepath": "cashew nut.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Blumenkohl",
+      "children": [
+        {
+          "description": "1 Kohl",
+          "value": 13,
+          "imagepath": "cauliflower.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kirsche",
+      "children": [
+        {
+          "description": "2 stk.",
+          "value": 2.1,
+          "imagepath": "cherry.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Cola",
+      "children": [
+        {
+          "description": "1 Dose (3.3dl)",
+          "value": 33,
+          "imagepath": "cola.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Gurke",
+      "children": [
+        {
+          "description": "1 Essiggurke",
+          "value": 2,
+          "imagepath": "cucumber1.jpg"
         },
         {
-            "description":"150g frucht",
-            "value": 23.0,
-            "imagepath":"yogurt2.jpg"
+          "description": "1 Salatgurke",
+          "value": 5.4,
+          "imagepath": "cucumber2.jpg"
         }
-    ]
+      ]
     },
     {
-    "name":"Zucchini",
-    "children":[
+      "name": "Ei",
+      "children": [
         {
-            "description":"1 stk.",
-            "value": 6.0,
-            "imagepath":"zucchini.jpg"
+          "description": "1 Ei",
+          "value": 1,
+          "imagepath": "egg.jpg"
         }
-    ]
+      ]
     },
     {
-    "name":"Zwieback",
-    "children":[
+      "name": "Aubergine",
+      "children": [
         {
-            "description":"1 stk.",
-            "value": 7.0,
-            "imagepath":"zwieback.jpg"
+          "description": "1 stk.",
+          "value": 10,
+          "imagepath": "eggplant.jpg"
         }
-    ]
+      ]
     },
     {
-        "name":"Basler Leckerli",
-        "children":[
-            {
-                "description":"1 stk",
-                "value": 6.0,
-                "imagepath":"basler leckerli1.jpg"
-            },
-            {
-                "description":"3 stk.",
-                "value": 20.0,
-                "imagepath":"basler leckerli2.jpg"
-            }
-        ]
-    },
-    {
-    "name":"Praline",
-    "children":[
+      "name": "Fanta",
+      "children": [
         {
-            "description":"1 stk.",
-            "value": 7.0,
-            "imagepath":"praline.jpg"
+          "description": "1 Dose (3.3dl)",
+          "value": 30,
+          "imagepath": "fanta.jpg"
         }
-    ]
+      ]
     },
     {
-        "name":"Kartoffelchips",
-        "children":[
-            {
-                "description":"1 Hand voll",
-                "value": 11.0,
-                "imagepath":"chips_20g.jpg"
-            },
-            {
-                "description":"1 Portion",
-                "value": 16.0,
-                "imagepath":"chips_30g.jpg"
-            }
-        ]
+      "name": "Fischstäbchen",
+      "children": [
+        {
+          "description": "5 stk.",
+          "value": 20,
+          "imagepath": "fish fingers.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Haselnüsse",
+      "children": [
+        {
+          "description": "1 Hand /15stk.",
+          "value": 1,
+          "imagepath": "hazelnut.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Eis",
+      "children": [
+        {
+          "description": "1 Kugel",
+          "value": 14,
+          "imagepath": "ice cream ball.jpg"
+        },
+        {
+          "description": "1 Eis",
+          "value": 30,
+          "imagepath": "ice cream.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Lauch",
+      "children": [
+        {
+          "description": "1 stk.",
+          "value": 5,
+          "imagepath": "leek.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Zitrone",
+      "children": [
+        {
+          "description": "1 stk.",
+          "value": 2.5,
+          "imagepath": "lemon.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mais",
+      "children": [
+        {
+          "description": "1 Löffel",
+          "value": 1.9,
+          "imagepath": "mais.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mango",
+      "children": [
+        {
+          "description": "1 mittelgrosse",
+          "value": 27,
+          "imagepath": "mango.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mars Schokoriegel",
+      "children": [
+        {
+          "description": "1 Riegel",
+          "value": 35,
+          "imagepath": "mars.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Melone",
+      "children": [
+        {
+          "description": "1 Honigmelone",
+          "value": 65,
+          "imagepath": "melon1.jpg"
+        },
+        {
+          "description": "1 Scheibe Wassermelone",
+          "value": 13,
+          "imagepath": "melon2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Milch",
+      "children": [
+        {
+          "description": "1 Glas (2dl)",
+          "value": 10,
+          "imagepath": "milk.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Muffin",
+      "children": [
+        {
+          "description": "1 Muffin",
+          "value": 25,
+          "imagepath": "muffin.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Glühwein",
+      "children": [
+        {
+          "description": "1 Glas (2dl)",
+          "value": 30,
+          "imagepath": "mulled wine.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nektarine",
+      "children": [
+        {
+          "description": "1 stk.",
+          "value": 14,
+          "imagepath": "nectarine.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Öl",
+      "children": [
+        {
+          "description": "Sonnenblumenöl",
+          "value": 0,
+          "imagepath": "oil.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Orangensaft",
+      "children": [
+        {
+          "description": "1 Glas (2dl)",
+          "value": 20,
+          "imagepath": "orange juice.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ananassaft",
+      "children": [
+        {
+          "description": "1 Glas (2dl)",
+          "value": 22,
+          "imagepath": "ananas juice.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pfirsich",
+      "children": [
+        {
+          "description": "1 stk.",
+          "value": 12,
+          "imagepath": "peach.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Erbsen",
+      "children": [
+        {
+          "description": "1 kleine portion",
+          "value": 8,
+          "imagepath": "peas.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pistazien",
+      "children": [
+        {
+          "description": "1 Hand /15stk.",
+          "value": 4,
+          "imagepath": "pistachios.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kartoffel",
+      "children": [
+        {
+          "description": "1 mittelgrosse",
+          "value": 15,
+          "imagepath": "potato.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Quark",
+      "children": [
+        {
+          "description": "250g",
+          "value": 9,
+          "imagepath": "quark.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Himbeere",
+      "children": [
+        {
+          "description": "1 Beere",
+          "value": 0.5,
+          "imagepath": "raspberry.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Reis",
+      "children": [
+        {
+          "description": "1 Portion",
+          "value": 47,
+          "imagepath": "rice.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Salat",
+      "children": [
+        {
+          "description": "1 Schüssel",
+          "value": 2,
+          "imagepath": "salad.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Snickers Schokoriegel",
+      "children": [
+        {
+          "description": "1 Riegel",
+          "value": 31,
+          "imagepath": "snickers.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Spinat",
+      "children": [
+        {
+          "description": "1 Schüssel",
+          "value": 2,
+          "imagepath": "spinach.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Erdbeeren",
+      "children": [
+        {
+          "description": "1 Beere",
+          "value": 0.7,
+          "imagepath": "strawberry.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Tee",
+      "children": [
+        {
+          "description": "1 Glas (2dl)",
+          "value": 0,
+          "imagepath": "tea.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Tomaten",
+      "children": [
+        {
+          "description": "1 stk.",
+          "value": 3,
+          "imagepath": "tomato.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Tortilla wrap",
+      "children": [
+        {
+          "description": "1 stk.",
+          "value": 21,
+          "imagepath": "tortilla.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Walnüsse",
+      "children": [
+        {
+          "description": "1 Hand /15stk.",
+          "value": 3,
+          "imagepath": "walnuts.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Wein",
+      "children": [
+        {
+          "description": "rot 1 Glas (1dl)",
+          "value": 4,
+          "imagepath": "wine1.jpg"
+        },
+        {
+          "description": "weiss 1 glas (1dl)",
+          "value": 4,
+          "imagepath": "wine2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Joghurt",
+      "children": [
+        {
+          "description": "150g nature",
+          "value": 6,
+          "imagepath": "yogurt1.jpg"
+        },
+        {
+          "description": "150g frucht",
+          "value": 23,
+          "imagepath": "yogurt2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Zucchini",
+      "children": [
+        {
+          "description": "1 stk.",
+          "value": 6,
+          "imagepath": "zucchini.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Zwieback",
+      "children": [
+        {
+          "description": "1 stk.",
+          "value": 7,
+          "imagepath": "zwieback.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Basler Leckerli",
+      "children": [
+        {
+          "description": "1 stk",
+          "value": 6,
+          "imagepath": "basler leckerli1.jpg"
+        },
+        {
+          "description": "3 stk.",
+          "value": 20,
+          "imagepath": "basler leckerli2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Praline",
+      "children": [
+        {
+          "description": "1 stk.",
+          "value": 7,
+          "imagepath": "praline.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kartoffelchips",
+      "children": [
+        {
+          "description": "1 Hand voll",
+          "value": 11,
+          "imagepath": "chips_20g.jpg"
+        },
+        {
+          "description": "1 Portion",
+          "value": 16,
+          "imagepath": "chips_30g.jpg"
+        }
+      ]
     }
- ]
+  ]
