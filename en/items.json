@@ -3,8 +3,8 @@
     "name": "Apple",
     "children": [
       {
-        "description": "1 apple = 12 carbs",
-        "value": 0.0,
+        "description": "1 apple",
+        "value": 12.0,
         "imagepath": "apfel.jpg"
       }
     ]
@@ -13,8 +13,8 @@
     "name": "Banana",
     "children": [
       {
-        "description": "1 banana = 30 carbs",
-        "value": 0.0,
+        "description": "1 banana",
+        "value": 30.0,
         "imagepath": "banane.jpg"
       }
     ]
@@ -23,8 +23,8 @@
     "name": "Berliner",
     "children": [
       {
-        "description": "1 berliner = 35 carbs",
-        "value": 0.0,
+        "description": "1 berliner",
+        "value": 35.0,
         "imagepath": "berliner.jpg"
       }
     ]
@@ -33,8 +33,8 @@
     "name": "Pear",
     "children": [
       {
-        "description": "1 pear = 12 carbs",
-        "value": 0.0,
+        "description": "1 pear",
+        "value": 12.0,
         "imagepath": "birne.jpg"
       }
     ]
@@ -43,23 +43,23 @@
     "name": "Bread",
     "children": [
       {
-        "description": "1 pcs = 13 carbs",
-        "value": 0.0,
+        "description": "1 pcs",
+        "value": 13.0,
         "imagepath": "brot-dunkel.jpg"
       },
       {
-        "description": "1 pcs = 15 carbs",
-        "value": 0.0,
+        "description": "1 pcs",
+        "value": 15.0,
         "imagepath": "brot-hell.jpg"
       },
       {
-        "description": "1 pcs protein = 4.5 carbs",
-        "value": 0.0,
+        "description": "1 pcs",
+        "value": 4.5,
         "imagepath": "brot-protein.jpg"
       },
       {
-        "description": "1 bagel = 15 carbs",
-        "value": 0.0,
+        "description": "1 bagel",
+        "value": 15.0,
         "imagepath": "bagel.jpg"
       }
     ]
@@ -68,13 +68,13 @@
     "name": "Croissant",
     "children": [
       {
-        "description": "1 chocolate = 45 carbs",
-        "value": 0.0,
+        "description": "1 chocolate",
+        "value": 45.0,
         "imagepath": "schokogipfel.jpg"
       },
       {
-        "description": "1 butter = 20 carbs",
-        "value": 0.0,
+        "description": "1 butter",
+        "value": 20.0,
         "imagepath": "buttergipfel.jpg"
       }
     ]
@@ -83,8 +83,8 @@
     "name": "Donut",
     "children": [
       {
-        "description": "1 donut = 20 carbs",
-        "value": 0.0,
+        "description": "1 donut",
+        "value": 20.0,
         "imagepath": "donut.jpg"
       }
     ]
@@ -93,8 +93,8 @@
     "name": "Kiwi",
     "children": [
       {
-        "description": "1 kiwi = 5 carbs",
-        "value": 0.0,
+        "description": "1 kiwi",
+        "value": 5.0,
         "imagepath": "kiwi.jpg"
       }
     ]
@@ -103,8 +103,8 @@
     "name": "Orange",
     "children": [
       {
-        "description": "1 orange = 15 carbs",
-        "value": 0.0,
+        "description": "1 orange",
+        "value": 15.0,
         "imagepath": "orange.jpg"
       }
     ]
@@ -113,8 +113,8 @@
     "name": "Raffaello",
     "children": [
       {
-        "description": "1 pcs = 4 carbs",
-        "value": 0.0,
+        "description": "1 pcs",
+        "value": 4.0,
         "imagepath": "raffaello.jpg"
       }
     ]
@@ -123,8 +123,8 @@
     "name": "Chocolate",
     "children": [
       {
-        "description": "1 bar = 60 carbs",
-        "value": 0.0,
+        "description": "1 bar",
+        "value": 60.0,
         "imagepath": "schokolade.jpg"
       }
     ]
@@ -133,8 +133,8 @@
     "name": "Sugar",
     "children": [
       {
-        "description": "1 stick = 5 carbs",
-        "value": 0.0,
+        "description": "1 stick",
+        "value": 5.0,
         "imagepath": "zucker.jpg"
       }
     ]
@@ -143,8 +143,8 @@
     "name": "Almonds",
     "children": [
       {
-        "description": "1 hand /15pcs = 1 carb",
-        "value": 0.0,
+        "description": "1 hand /15pcs",
+        "value": 1.0,
         "imagepath": "almonds.jpg"
       }
     ]
@@ -153,8 +153,8 @@
     "name": "Ananas",
     "children": [
       {
-        "description": "1 slice = 11 carbs",
-        "value": 0.0,
+        "description": "1 slice = 11",
+        "value": 11.0,
         "imagepath": "ananas.jpg"
       }
     ]
@@ -163,8 +163,8 @@
     "name": "Apple juice",
     "children": [
       {
-        "description": "1 cup (2dl) = 20 carbs",
-        "value": 0.0,
+        "description": "1 cup (2dl)",
+        "value": 20.0,
         "imagepath": "apple juice.jpg"
       }
     ]
@@ -173,8 +173,8 @@
     "name": "Apricot",
     "children": [
       {
-        "description": "1 pcs = 6 carbs",
-        "value": 0.0,
+        "description": "1 pcs",
+        "value": 6.0,
         "imagepath": "apricot.jpg"
       }
     ]
@@ -183,7 +183,7 @@
     "name": "Avocado",
     "children": [
       {
-        "description": "1/2 pcs = 0 carbs",
+        "description": "1/2 pcs",
         "value": 0.0,
         "imagepath": "avocado.jpg"
       }
@@ -193,8 +193,8 @@
     "name": "Beans",
     "children": [
       {
-        "description": "1 bowl = 15 carbs",
-        "value": 0.0,
+        "description": "1 bowl",
+        "value": 15.0,
         "imagepath": "beans.jpg"
       }
     ]
@@ -203,8 +203,8 @@
     "name": "Blackberry",
     "children": [
       {
-        "description": "1 berry = 0.2 carbs",
-        "value": 0.0,
+        "description": "1 berry",
+        "value": 0.2,
         "imagepath": "blackberry.jpg"
       }
     ]
@@ -213,8 +213,8 @@
     "name": "Blueberry",
     "children": [
       {
-        "description": "1 berry = 0.1 carbs",
-        "value": 0.0,
+        "description": "1 berry",
+        "value": 0.1,
         "imagepath": "blueberry.jpg"
       }
     ]
@@ -223,8 +223,8 @@
     "name": "Bounty chocolate bar",
     "children": [
       {
-        "description": "1 bar = 17 carbs",
-        "value": 0.0,
+        "description": "1 bar",
+        "value": 17.0,
         "imagepath": "bounty.jpg"
       }
     ]
@@ -233,8 +233,8 @@
     "name": "Bread roll",
     "children": [
       {
-        "description": "1 roll = 44 carbs",
-        "value": 0.0,
+        "description": "1 roll",
+        "value": 44.0,
         "imagepath": "bread roll.jpg"
       }
     ]
@@ -243,8 +243,8 @@
     "name": "Broccoli",
     "children": [
       {
-        "description": "1 broccoli = 13 carbs",
-        "value": 0.0,
+        "description": "1 broccoli",
+        "value": 13.0,
         "imagepath": "broccoli.jpg"
       }
     ]
@@ -253,8 +253,8 @@
     "name": "Caipirinha",
     "children": [
       {
-        "description": "1 cup (2dl) = 74 carbs",
-        "value": 0.0,
+        "description": "1 cup (2dl)",
+        "value": 74.0,
         "imagepath": "caipirinha.jpg"
       }
     ]
@@ -263,8 +263,8 @@
     "name": "Cake",
     "children": [
       {
-        "description": "1 chocolate = 40 carbs",
-        "value": 0.0,
+        "description": "1 chocolate",
+        "value": 40.0,
         "imagepath": "cake.jpg"
       }
     ]
@@ -273,8 +273,8 @@
     "name": "Carrot",
     "children": [
       {
-        "description": "1 carrot = 4 carbs",
-        "value": 0.0,
+        "description": "1 carrot",
+        "value": 4.0,
         "imagepath": "carrot.jpg"
       }
     ]
@@ -283,8 +283,8 @@
     "name": "Cashew nuts",
     "children": [
       {
-        "description": "1 hand /15pcs = 12 carb",
-        "value": 0.0,
+        "description": "1 hand /15pcs",
+        "value": 12.0,
         "imagepath": "cashew nut.jpg"
       }
     ]
@@ -293,8 +293,8 @@
     "name": "Cauliflower",
     "children": [
       {
-        "description": "1 cauliflower = 13 carbs",
-        "value": 0.0,
+        "description": "1 cauliflower",
+        "value": 13.0,
         "imagepath": "cauliflower.jpg"
       }
     ]
@@ -303,8 +303,8 @@
     "name": "Cherry",
     "children": [
       {
-        "description": "2 pcs = 2.1 carbs",
-        "value": 0.0,
+        "description": "2 pcs",
+        "value": 2.1,
         "imagepath": "cherry.jpg"
       }
     ]
@@ -313,8 +313,8 @@
     "name": "Coke",
     "children": [
       {
-        "description": "1 can (3.3dl) = 33 carbs",
-        "value": 0.0,
+        "description": "1 can (3.3dl)",
+        "value": 33.0,
         "imagepath": "cola.jpg"
       }
     ]
@@ -323,13 +323,13 @@
     "name": "Cucumber/Pickle",
     "children": [
       {
-        "description": "1 pickle = 2 carbs",
-        "value": 0.0,
+        "description": "1 pickle",
+        "value": 2.0,
         "imagepath": "cucumber1.jpg"
       },
       {
-        "description": "1 cucumber = 5.4 carbs",
-        "value": 0.0,
+        "description": "1 cucumber",
+        "value": 5.4,
         "imagepath": "cucumber2.jpg"
       }
     ]
@@ -338,8 +338,8 @@
     "name": "Egg",
     "children": [
       {
-        "description": "1 egg = 1 carbs",
-        "value": 0.0,
+        "description": "1 egg",
+        "value": 1.0,
         "imagepath": "egg.jpg"
       }
     ]
@@ -348,8 +348,8 @@
     "name": "Eggplant",
     "children": [
       {
-        "description": "1 pcs = 10 carbs",
-        "value": 0.0,
+        "description": "1 pcs",
+        "value": 10.0,
         "imagepath": "eggplant.jpg"
       }
     ]
@@ -358,8 +358,8 @@
     "name": "Fanta",
     "children": [
       {
-        "description": "1 can (3.3dl) = 30 carbs",
-        "value": 0.0,
+        "description": "1 can (3.3dl)",
+        "value": 30.0,
         "imagepath": "fanta.jpg"
       }
     ]
@@ -368,8 +368,8 @@
     "name": "Fish fingers",
     "children": [
       {
-        "description": "5 pcs = 20 carbs",
-        "value": 0.0,
+        "description": "5 pcs",
+        "value": 20.0,
         "imagepath": "fish fingers.jpg"
       }
     ]
@@ -378,8 +378,8 @@
     "name": "Hazelnuts",
     "children": [
       {
-        "description": "1 hand /15pcs = 1 carb",
-        "value": 0.0,
+        "description": "1 hand /15pcs",
+        "value": 1.0,
         "imagepath": "hazelnut.jpg"
       }
     ]
@@ -388,13 +388,13 @@
     "name": "Ice Cream",
     "children": [
       {
-        "description": "1 ball = 14 carbs",
-        "value": 0.0,
+        "description": "1 ball",
+        "value": 14.0,
         "imagepath": "ice cream ball.jpg"
       },
       {
-        "description": "1 ice cream = 30 carbs",
-        "value": 0.0,
+        "description": "1 ice cream",
+        "value": 30.0,
         "imagepath": "ice cream.jpg"
       }
     ]
@@ -403,8 +403,8 @@
     "name": "Leek",
     "children": [
       {
-        "description": "1 pcs = 5 carbs",
-        "value": 0.0,
+        "description": "1 pcs",
+        "value": 5.0,
         "imagepath": "leek.jpg"
       }
     ]
@@ -413,8 +413,8 @@
     "name": "Lemon",
     "children": [
       {
-        "description": "1 pcs = 2.5 carbs",
-        "value": 0.0,
+        "description": "1 pcs",
+        "value": 2.5,
         "imagepath": "lemon.jpg"
       }
     ]
@@ -423,8 +423,8 @@
     "name": "Mais",
     "children": [
       {
-        "description": "1 spoon = 1.9 carbs",
-        "value": 0.0,
+        "description": "1 spoon",
+        "value": 1.9,
         "imagepath": "mais.jpg"
       }
     ]
@@ -433,8 +433,8 @@
     "name": "Mango",
     "children": [
       {
-        "description": "1 mid-sized = 27 carbs",
-        "value": 0.0,
+        "description": "1 mid-sized",
+        "value": 27.0,
         "imagepath": "mango.jpg"
       }
     ]
@@ -443,8 +443,8 @@
     "name": "Mars chocolate bar",
     "children": [
       {
-        "description": "1 bar = 35 carbs",
-        "value": 0.0,
+        "description": "1 bar",
+        "value": 35.0,
         "imagepath": "mars.jpg"
       }
     ]
@@ -453,13 +453,13 @@
     "name": "Melon",
     "children": [
       {
-        "description": "1 honey melon = 65 carbs",
-        "value": 0.0,
+        "description": "1 honey melon",
+        "value": 65.0,
         "imagepath": "melon1.jpg"
       },
       {
-        "description": "1 slice water melon = 13 carbs",
-        "value": 0.0,
+        "description": "1 slice water melon",
+        "value": 13.0,
         "imagepath": "melon2.jpg"
       }
     ]
@@ -468,8 +468,8 @@
     "name": "Milk",
     "children": [
       {
-        "description": "1 cup (2dl) = 10 carbs",
-        "value": 0.0,
+        "description": "1 cup (2dl)",
+        "value": 10.0,
         "imagepath": "milk.jpg"
       }
     ]
@@ -478,8 +478,8 @@
     "name": "Muffin",
     "children": [
       {
-        "description": "1 muffin = 25 carbs",
-        "value": 0.0,
+        "description": "1 muffin",
+        "value": 25.0,
         "imagepath": "muffin.jpg"
       }
     ]
@@ -488,8 +488,8 @@
     "name": "Mulled wine",
     "children": [
       {
-        "description": "1 cup (2dl) = 30 carbs",
-        "value": 0.0,
+        "description": "1 cup (2dl)",
+        "value": 30.0,
         "imagepath": "mulled wine.jpg"
       }
     ]
@@ -498,8 +498,8 @@
     "name": "Nectarine",
     "children": [
       {
-        "description": "1 pcs = 14 carbs",
-        "value": 0.0,
+        "description": "1 pcs",
+        "value": 14.0,
         "imagepath": "nectarine.jpg"
       }
     ]
@@ -508,7 +508,7 @@
     "name": "Oil",
     "children": [
       {
-        "description": "sunflower oil = 0 carbs",
+        "description": "sunflower oil",
         "value": 0.0,
         "imagepath": "oil.jpg"
       }
@@ -518,8 +518,8 @@
     "name": "Orange juice",
     "children": [
       {
-        "description": "1 cup (2dl) = 20 carbs",
-        "value": 0.0,
+        "description": "1 cup (2dl)",
+        "value": 20.0,
         "imagepath": "orange juice.jpg"
       }
     ]
@@ -528,8 +528,8 @@
     "name": "Ananas juice",
     "children": [
       {
-        "description": "1 cup (2dl) = 22 carbs",
-        "value": 0.0,
+        "description": "1 cup (2dl)",
+        "value": 22.0,
         "imagepath": "ananas juice.jpg"
       }
     ]
@@ -538,8 +538,8 @@
     "name": "Peach",
     "children": [
       {
-        "description": "1 pcs = 12 carbs",
-        "value": 0.0,
+        "description": "1 pcs",
+        "value": 12.0,
         "imagepath": "peach.jpg"
       }
     ]
@@ -548,8 +548,8 @@
     "name": "Peas",
     "children": [
       {
-        "description": "1 small portion = 8 carbs",
-        "value": 0.0,
+        "description": "1 small portion",
+        "value": 8.0,
         "imagepath": "peas.jpg"
       }
     ]
@@ -558,8 +558,8 @@
     "name": "Pistachios",
     "children": [
       {
-        "description": "1 hand /15pcs = 4 carbs",
-        "value": 0.0,
+        "description": "1 hand /15pcs",
+        "value": 4.0,
         "imagepath": "pistachios.jpg"
       }
     ]
@@ -568,8 +568,8 @@
     "name": "Potato",
     "children": [
       {
-        "description": "1 mid-sized = 15 carbs",
-        "value": 0.0,
+        "description": "1 mid-sized",
+        "value": 15.0,
         "imagepath": "potato.jpg"
       }
     ]
@@ -578,8 +578,8 @@
     "name": "Quark",
     "children": [
       {
-        "description": "250g = 9 carbs",
-        "value": 0.0,
+        "description": "250g",
+        "value": 9.0,
         "imagepath": "quark.jpg"
       }
     ]
@@ -588,8 +588,8 @@
     "name": "Raspberry",
     "children": [
       {
-        "description": "1 berry = 0.5 carbs",
-        "value": 0.0,
+        "description": "1 berry",
+        "value": 0.5,
         "imagepath": "raspberry.jpg"
       }
     ]
@@ -598,8 +598,8 @@
     "name": "Rice",
     "children": [
       {
-        "description": "1 portion = 47 carbs",
-        "value": 0.0,
+        "description": "1 portion",
+        "value": 47.0,
         "imagepath": "rice.jpg"
       }
     ]
@@ -608,8 +608,8 @@
     "name": "Salad",
     "children": [
       {
-        "description": "1 bowl = 2 carbs",
-        "value": 0.0,
+        "description": "1 bowl",
+        "value": 2.0,
         "imagepath": "salad.jpg"
       }
     ]
@@ -618,8 +618,8 @@
     "name": "Snickers chocolate bar",
     "children": [
       {
-        "description": "1 bar = 31 carbs",
-        "value": 0.0,
+        "description": "1 bar",
+        "value": 31.0,
         "imagepath": "snickers.jpg"
       }
     ]
@@ -628,8 +628,8 @@
     "name": "Spinach",
     "children": [
       {
-        "description": "1 bowl = 2 carbs",
-        "value": 0.0,
+        "description": "1 bowl",
+        "value": 2.0,
         "imagepath": "spinach.jpg"
       }
     ]
@@ -638,8 +638,8 @@
     "name": "Strawberry",
     "children": [
       {
-        "description": "1 berry = 0.7 carbs",
-        "value": 0.0,
+        "description": "1 berry",
+        "value": 0.7,
         "imagepath": "strawberry.jpg"
       }
     ]
@@ -648,7 +648,7 @@
     "name": "Tea",
     "children": [
       {
-        "description": "1 cup (2dl) = 0 carbs",
+        "description": "1 cup (2dl)",
         "value": 0.0,
         "imagepath": "tea.jpg"
       }
@@ -658,8 +658,8 @@
     "name": "Tomato",
     "children": [
       {
-        "description": "1 pcs = 3 carbs",
-        "value": 0.0,
+        "description": "1 pcs",
+        "value": 3.0,
         "imagepath": "tomato.jpg"
       }
     ]
@@ -668,8 +668,8 @@
     "name": "Tortilla wrap",
     "children": [
       {
-        "description": "1 pcs = 21 carbs",
-        "value": 0.0,
+        "description": "1 pcs",
+        "value": 21.0,
         "imagepath": "tortilla.jpg"
       }
     ]
@@ -678,8 +678,8 @@
     "name": "Walnuts",
     "children": [
       {
-        "description": "1 hand /15pcs = 3 carbs",
-        "value": 0.0,
+        "description": "1 hand /15pcs",
+        "value": 3.0,
         "imagepath": "walnuts.jpg"
       }
     ]
@@ -688,13 +688,13 @@
     "name": "Wine",
     "children": [
       {
-        "description": "red 1 glass (1dl) = 4 carbs",
-        "value": 0.0,
+        "description": "red 1 glass (1dl)",
+        "value": 4.0,
         "imagepath": "wine1.jpg"
       },
       {
-        "description": "white 1 glass (1dl) = 4 carbs",
-        "value": 0.0,
+        "description": "white 1 glass (1dl)",
+        "value": 4.0,
         "imagepath": "wine2.jpg"
       }
     ]
@@ -703,13 +703,13 @@
     "name": "Yogurt",
     "children": [
       {
-        "description": "150g traditional = 6 carbs",
-        "value": 0.0,
+        "description": "150g traditional",
+        "value": 6.0,
         "imagepath": "yogurt1.jpg"
       },
       {
-        "description": "150g fruit = 23 carbs",
-        "value": 0.0,
+        "description": "150g fruit",
+        "value": 23.0,
         "imagepath": "yogurt2.jpg"
       }
     ]
@@ -718,8 +718,8 @@
     "name": "Zucchini",
     "children": [
       {
-        "description": "1 pcs = 6 carbs",
-        "value": 0.0,
+        "description": "1 pcs",
+        "value": 6.0,
         "imagepath": "zucchini.jpg"
       }
     ]
@@ -728,8 +728,8 @@
     "name": "Praline",
     "children": [
       {
-        "description": "1 pcs. = 7 carbs",
-        "value": 0.0,
+        "description": "1 pcs.",
+        "value": 7.0,
         "imagepath": "praline.jpg"
       }
     ]
@@ -738,13 +738,13 @@
     "name": "Potato chips",
     "children": [
       {
-        "description": "1 hand = 11 carbs",
-        "value": 0.0,
+        "description": "1 hand",
+        "value": 11.0,
         "imagepath": "chips_20g.jpg"
       },
       {
-        "description": "1 portion = 16 carbs",
-        "value": 0.0,
+        "description": "1 portion",
+        "value": 16.0,
         "imagepath": "chips_30g.jpg"
       }
     ]
