@@ -688,5 +688,20 @@
             "imagepath":"praline.jpg"
         }
     ]
+    },
+    {
+        "name":"Kartoffelchips",
+        "children":[
+            {
+                "description":"1 Hand voll",
+                "value": 11.0,
+                "imagepath":"chips_20g.jpg"
+            },
+            {
+                "description":"1 Portion",
+                "value": 16.0,
+                "imagepath":"chips_30g.jpg"
+            }
+        ]
     }
  ]

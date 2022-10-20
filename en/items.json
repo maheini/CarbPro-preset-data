@@ -650,12 +650,25 @@
     ]
     },
     {
-    "name":"Praline",
-    "children":[
-        {
-            "description":"1 pcs. = 7 carbs",
-            "imagepath":"praline.jpg"
-        }
-    ]
+        "name":"Praline",
+        "children":[
+            {
+                "description":"1 pcs. = 7 carbs",
+                "imagepath":"praline.jpg"
+            }
+        ]
+    },
+    {
+        "name":"Potato chips",
+        "children":[
+            {
+                "description":"1 hand = 11 carbs",
+                "imagepath":"chips_20g.jpg"
+            },
+            {
+                "description":"1 portion = 16 carbs",
+                "imagepath":"chips_30g.jpg"
+            }
+        ]
     }
  ]
