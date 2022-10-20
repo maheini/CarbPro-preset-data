@@ -3,7 +3,8 @@
         "name":"Apfel",
         "children":[
            {
-              "description":"1 Apfel = 12 KH",
+              "description":"1 Apfel",
+              "value": 12.0,
               "imagepath":"apfel.jpg"
            }
         ]
@@ -12,7 +13,8 @@
        "name":"Banane",
        "children":[
           {
-             "description":"1 Banane = 30 KH",
+             "description":"1 Banane",
+             "value": 30.0,
              "imagepath":"banane.jpg"
           }
        ]
@@ -21,7 +23,8 @@
       "name":"Berliner",
       "children":[
          {
-            "description":"1 Berliner = 35 KH",
+            "description":"1 Berliner",
+            "value": 35.0,
             "imagepath":"berliner.jpg"
          }
       ]
@@ -30,7 +33,8 @@
      "name":"Birne",
      "children":[
         {
-           "description":"1 Birne = 12 KH",
+           "description":"1 Birne",
+           "value": 12.0,
            "imagepath":"birne.jpg"
         }
      ]
@@ -39,19 +43,23 @@
        "name":"Brot",
        "children":[
           {
-             "description":"1 Stück = 13 KH",
+             "description":"1 Stück",
+             "value": 13.0,
              "imagepath":"brot-dunkel.jpg"
           },
           {
-             "description":"1 Stück = 15 KH",
+             "description":"1 Stück",
+             "value": 15,
              "imagepath":"brot-hell.jpg"
           },
           {
-             "description":"1 stk. Protein = 4.5 KH",
+             "description":"1 stk. Protein",
+             "value": 4.5,
              "imagepath":"brot-protein.jpg"
           },
           {
-             "description":"1 Bagel = 15 KH",
+             "description":"1 Bagel",
+             "value": 15.0,
              "imagepath":"bagel.jpg"
           }
        ]
@@ -60,11 +68,13 @@
       "name":"Croissant",
       "children":[
         {
-            "description":"1 Schokolade = 45 KH",
+            "description":"1 Schokolade",
+            "value": 45.0,
             "imagepath":"schokogipfel.jpg"
          },
          {
-           "description":"1 Butter = 20 KH",
+           "description":"1 Butter",
+           "value": 20.0,
            "imagepath":"buttergipfel.jpg"
         }
       ]
@@ -75,7 +85,8 @@
       "name":"Donut",
       "children":[
          {
-            "description":"1 Donut = 20 KH",
+            "description":"1 Donut",
+            "value": 20.0,
             "imagepath":"donut.jpg"
          }
       ]
@@ -84,7 +95,8 @@
       "name":"Kiwi",
       "children":[
          {
-            "description":"1 Kiwi = 5 KH",
+            "description":"1 Kiwi",
+            "value": 5.0,
             "imagepath":"kiwi.jpg"
          }
       ]
@@ -93,7 +105,8 @@
       "name":"Milchschnitte",
       "children":[
          {
-            "description":"1 Schnitte = 10 KH",
+            "description":"1 Schnitte",
+            "value": 10.0,
             "imagepath":"milchschnitte.jpg"
          }
       ]
@@ -102,7 +115,8 @@
       "name":"Orange",
       "children":[
          {
-            "description":"1 Orange = 15 KH",
+            "description":"1 Orange",
+            "value": 15.0,
             "imagepath":"orange.jpg"
          }
       ]
@@ -111,7 +125,8 @@
       "name":"Raffaello",
       "children":[
          {
-            "description":"1 Raffaello = 4 KH",
+            "description":"1 Raffaello",
+            "value": 4.0,
             "imagepath":"raffaello.jpg"
          }
       ]
@@ -120,7 +135,8 @@
       "name":"Schokolade",
       "children":[
          {
-            "description":"1 Tafel = 60 KH",
+            "description":"1 Tafel",
+            "value": 60.0,
             "imagepath":"schokolade.jpg"
          }
       ]
@@ -129,7 +145,8 @@
       "name":"Zucker",
       "children":[
          {
-            "description":"1 Stick = 5 KH",
+            "description":"1 Stick",
+            "value": 5.0,
             "imagepath":"zucker.jpg"
          }
       ]
@@ -138,7 +155,8 @@
        "name":"Mandeln",
        "children":[
           {
-             "description":"1 Hand /15stk. = 1 KH",
+             "description":"1 Hand /15stk.",
+             "value": 1.0,
              "imagepath":"almonds.jpg"
           }
        ]
@@ -147,7 +165,8 @@
       "name":"Ananas",
       "children":[
          {
-            "description":"1 Scheibe = 11 KH",
+            "description":"1 Scheibe",
+            "value": 11.0,
             "imagepath":"ananas.jpg"
          }
       ]
@@ -156,7 +175,8 @@
      "name":"Apfelsaft",
      "children":[
         {
-           "description":"1 Becher (2dl) = 20 KH",
+           "description":"1 Becher (2dl)",
+           "value": 20.0,
            "imagepath":"apple juice.jpg"
         }
      ]
@@ -165,7 +185,8 @@
     "name":"Aprikosen",
     "children":[
        {
-          "description":"1 stk. = 6 KH",
+          "description":"1 stk.",
+          "value": 6.0,
           "imagepath":"apricot.jpg"
        }
     ]
@@ -174,7 +195,8 @@
    "name":"Avocado",
    "children":[
       {
-         "description":"1/2 stk. = 0 KH",
+         "description":"1/2 stk.",
+         "value": 0.0,
          "imagepath":"avocado.jpg"
       }
    ]
@@ -183,7 +205,8 @@
   "name":"Bohnen",
   "children":[
      {
-        "description":"1 Schüssel = 15 KH",
+        "description":"1 Schüssel",
+        "value": 15.0,
         "imagepath":"beans.jpg"
      }
   ]
@@ -192,7 +215,8 @@
   "name":"Brombeeren",
   "children":[
      {
-        "description":"1 Beere = 0.2 KH",
+        "description":"1 Beere",
+        "value": 0.2,
         "imagepath":"blackberry.jpg"
      }
   ]
@@ -201,7 +225,8 @@
   "name":"Blaubeeren",
   "children":[
      {
-        "description":"1 Beere = 0.1 KH",
+        "description":"1 Beere",
+        "value": 0.1,
         "imagepath":"blueberry.jpg"
      }
   ]
@@ -210,7 +235,8 @@
   "name":"Bounty Schokoriegel",
   "children":[
      {
-        "description":"1 Riegel = 17 KH",
+        "description":"1 Riegel",
+        "value": 17.0,
         "imagepath":"bounty.jpg"
      }
   ]
@@ -219,7 +245,8 @@
   "name":"Brötchen",
   "children":[
      {
-        "description":"1 stk. = 44 KH",
+        "description":"1 stk.",
+        "value": 44.0,
         "imagepath":"bread roll.jpg"
      }
   ]
@@ -228,7 +255,8 @@
   "name":"Broccoli",
   "children":[
      {
-        "description":"1 Broccoli = 13 KH",
+        "description":"1 Broccoli",
+        "value": 13.0,
         "imagepath":"broccoli.jpg"
      }
   ]
@@ -237,7 +265,8 @@
   "name":"Caipirinha",
   "children":[
      {
-        "description":"1 Becher (2dl) = 74 KH",
+        "description":"1 Becher (2dl)",
+        "value": 74.0,
         "imagepath":"caipirinha.jpg"
      }
   ]
@@ -246,7 +275,8 @@
   "name":"Kuchen",
   "children":[
      {
-        "description":"1 Schoko = 40 KH",
+        "description":"1 Schoko",
+        "value": 40.0,
         "imagepath":"cake.jpg"
      }
   ]
@@ -255,7 +285,8 @@
   "name":"Möhre",
   "children":[
      {
-        "description":"1 Möhre = 4 KH",
+        "description":"1 Möhre",
+        "value": 4.0,
         "imagepath":"carrot.jpg"
      }
   ]
@@ -264,7 +295,8 @@
   "name":"Cashewnüsse",
   "children":[
      {
-        "description":"1 Hand /15stk. = 12 KH",
+        "description":"1 Hand /15stk.",
+        "value": 12.0,
         "imagepath":"cashew nut.jpg"
      }
   ]
@@ -273,7 +305,8 @@
     "name":"Blumenkohl",
     "children":[
         {
-            "description":"1 Kohl = 13 KH",
+            "description":"1 Kohl",
+            "value": 13.0,
             "imagepath":"cauliflower.jpg"
         }
     ]
@@ -282,7 +315,8 @@
     "name":"Kirsche",
     "children":[
         {
-            "description":"2 stk. = 2.1 KH",
+            "description":"2 stk.",
+            "value": 2.1,
             "imagepath":"cherry.jpg"
         }
     ]
@@ -291,7 +325,8 @@
     "name":"Cola",
     "children":[
         {
-            "description":"1 Dose (3.3dl) = 33 KH",
+            "description":"1 Dose (3.3dl)",
+            "value": 33.0,
             "imagepath":"cola.jpg"
         }
     ]
@@ -300,11 +335,13 @@
     "name":"Gurke",
     "children":[
         {
-            "description":"1 Essiggurke = 2 KH",
+            "description":"1 Essiggurke",
+            "value": 2.0,
             "imagepath":"cucumber1.jpg"
         },
         {
-            "description":"1 Salatgurke = 5.4 KH",
+            "description":"1 Salatgurke",
+            "value": 5.4,
             "imagepath":"cucumber2.jpg"
         }
     ]
@@ -313,7 +350,8 @@
     "name":"Ei",
     "children":[
         {
-            "description":"1 Ei = 1 KH",
+            "description":"1 Ei",
+            "value": 1.0,
             "imagepath":"egg.jpg"
         }
     ]
@@ -322,7 +360,8 @@
     "name":"Aubergine",
     "children":[
         {
-            "description":"1 stk. = 10 KH",
+            "description":"1 stk.",
+            "value": 10.0,
             "imagepath":"eggplant.jpg"
         }
     ]
@@ -331,7 +370,8 @@
     "name":"Fanta",
     "children":[
         {
-            "description":"1 Dose (3.3dl) = 30 KH",
+            "description":"1 Dose (3.3dl)",
+            "value": 30.0,
             "imagepath":"fanta.jpg"
         }
     ]
@@ -340,7 +380,8 @@
     "name":"Fischstäbchen",
     "children":[
         {
-            "description":"5 stk. = 20 KH",
+            "description":"5 stk.",
+            "value": 20.0,
             "imagepath":"fish fingers.jpg"
         }
     ]
@@ -349,7 +390,8 @@
     "name":"Haselnüsse",
     "children":[
         {
-            "description":"1 Hand /15stk. = 1 KH",
+            "description":"1 Hand /15stk.",
+            "value": 1.0,
             "imagepath":"hazelnut.jpg"
         }
     ]
@@ -358,11 +400,13 @@
     "name":"Eis",
     "children":[
         {
-            "description":"1 Kugel = 14 KH",
+            "description":"1 Kugel",
+            "value": 14.0,
             "imagepath":"ice cream ball.jpg"
         },
         {
-            "description":"1 Eis = 30 KH",
+            "description":"1 Eis",
+            "value": 30.0,
             "imagepath":"ice cream.jpg"
         }
     ]
@@ -371,7 +415,8 @@
     "name":"Lauch",
     "children":[
         {
-            "description":"1 stk. = 5 KH",
+            "description":"1 stk.",
+            "value": 5.0,
             "imagepath":"leek.jpg"
         }
     ]
@@ -380,7 +425,8 @@
     "name":"Zitrone",
     "children":[
         {
-            "description":"1 stk. = 2.5 KH",
+            "description":"1 stk.",
+            "value": 2.5,
             "imagepath":"lemon.jpg"
         }
     ]
@@ -389,7 +435,8 @@
     "name":"Mais",
     "children":[
         {
-            "description":"1 Löffel = 1.9 KH",
+            "description":"1 Löffel",
+            "value": 1.9,
             "imagepath":"mais.jpg"
         }
     ]
@@ -398,7 +445,8 @@
     "name":"Mango",
     "children":[
         {
-            "description":"1 mittelgrosse = 27 KH",
+            "description":"1 mittelgrosse",
+            "value": 27.0,
             "imagepath":"mango.jpg"
         }
     ]
@@ -407,7 +455,8 @@
     "name":"Mars Schokoriegel", 
     "children":[
         {
-            "description":"1 Riegel = 35 KH",
+            "description":"1 Riegel",
+            "value": 35.0,
             "imagepath":"mars.jpg"
         }
     ]
@@ -416,11 +465,13 @@
     "name":"Melone",
     "children":[
         {
-            "description":"1 Honigmelone = 65 KH",
+            "description":"1 Honigmelone",
+            "value": 65.0,
             "imagepath":"melon1.jpg"
         },
         {
-            "description":"1 Scheibe Wassermelone = 13 KH",
+            "description":"1 Scheibe Wassermelone",
+            "value": 13.0,
             "imagepath":"melon2.jpg"
         }
     ]
@@ -429,7 +480,8 @@
     "name":"Milch",
     "children":[
         {
-            "description":"1 Glas (2dl) = 10 KH",
+            "description":"1 Glas (2dl)",
+            "value": 10.0,
             "imagepath":"milk.jpg"
         }
     ]
@@ -438,7 +490,8 @@
     "name":"Muffin",
     "children":[
         {
-            "description":"1 Muffin = 25 KH",
+            "description":"1 Muffin",
+            "value": 25.0,
             "imagepath":"muffin.jpg"
         }
     ]
@@ -447,7 +500,8 @@
     "name":"Glühwein",
     "children":[
         {
-            "description":"1 Glas (2dl) = 30 KH",
+            "description":"1 Glas (2dl)",
+            "value": 30.0,
             "imagepath":"mulled wine.jpg"
         }
     ]
@@ -456,7 +510,8 @@
     "name":"Nektarine",
     "children":[
         {
-            "description":"1 stk. = 14 KH",
+            "description":"1 stk.",
+            "value": 14.0,
             "imagepath":"nectarine.jpg"
         }
     ]
@@ -465,7 +520,8 @@
     "name":"Öl",
     "children":[
         {
-            "description":"Sonnenblumenöl = 0 KH",
+            "description":"Sonnenblumenöl",
+            "value": 0.0,
             "imagepath":"oil.jpg"
         }
     ]
@@ -474,7 +530,8 @@
     "name":"Orangensaft",
     "children":[
         {
-            "description":"1 Glas (2dl) = 20 KH",
+            "description":"1 Glas (2dl)",
+            "value": 20.0,
             "imagepath":"orange juice.jpg"
         }
     ]
@@ -483,7 +540,8 @@
     "name":"Ananassaft",
     "children":[
         {
-            "description":"1 Glas (2dl) = 22 KH",
+            "description":"1 Glas (2dl)",
+            "value": 22.0,
             "imagepath":"ananas juice.jpg"
         }
     ]
@@ -492,7 +550,8 @@
     "name":"Pfirsich",
     "children":[
         {
-            "description":"1 stk. = 12 KH",
+            "description":"1 stk.",
+            "value": 12.0,
             "imagepath":"peach.jpg"
         }
     ]
@@ -501,7 +560,8 @@
     "name":"Erbsen",
     "children":[
         {
-            "description":"1 kleine portion = 8 KH",
+            "description":"1 kleine portion",
+            "value": 8.0,
             "imagepath":"peas.jpg"
         }
     ]
@@ -510,7 +570,8 @@
     "name":"Pistazien",
     "children":[
         {
-            "description":"1 Hand /15stk. = 4 KH",
+            "description":"1 Hand /15stk.",
+            "value": 4.0,
             "imagepath":"pistachios.jpg"
         }
     ]
@@ -519,7 +580,8 @@
     "name":"Kartoffel",
     "children":[
         {
-            "description":"1 mittelgrosse = 15 KH",
+            "description":"1 mittelgrosse",
+            "value": 15.0,
             "imagepath":"potato.jpg"
         }
     ]
@@ -528,7 +590,8 @@
     "name":"Quark",
     "children":[
         {
-            "description":"250g = 9 KH",
+            "description":"250g",
+            "value": 9.0,
             "imagepath":"quark.jpg"
         }
     ]
@@ -537,7 +600,8 @@
     "name":"Himbeere",
     "children":[
         {
-            "description":"1 Beere = 0.5 KH",
+            "description":"1 Beere",
+            "value": 0.5,
             "imagepath":"raspberry.jpg"
         }
     ]
@@ -546,7 +610,8 @@
     "name":"Reis",
     "children":[
         {
-            "description":"1 Portion = 47 KH",
+            "description":"1 Portion",
+            "value": 47.0,
             "imagepath":"rice.jpg"
         }
     ]
@@ -555,7 +620,8 @@
     "name":"Salat",
     "children":[
         {
-            "description":"1 Schüssel = 2 KH",
+            "description":"1 Schüssel",
+            "value": 2.0,
             "imagepath":"salad.jpg"
         }
     ]
@@ -564,7 +630,8 @@
     "name":"Snickers Schokoriegel",
     "children":[
         {
-            "description":"1 Riegel = 31 KH",
+            "description":"1 Riegel",
+            "value": 31.0,
             "imagepath":"snickers.jpg"
         }
     ]
@@ -573,7 +640,8 @@
     "name":"Spinat",
     "children":[
         {
-            "description":"1 Schüssel = 2 KH",
+            "description":"1 Schüssel",
+            "value": 2.0,
             "imagepath":"spinach.jpg"
         }
     ]
@@ -582,7 +650,8 @@
     "name":"Erdbeeren",
     "children":[
         {
-            "description":"1 Beere = 0.7 KH",
+            "description":"1 Beere",
+            "value": 0.7,
             "imagepath":"strawberry.jpg"
         }
     ]
@@ -591,7 +660,8 @@
     "name":"Tee",
     "children":[
         {
-            "description":"1 Glas (2dl) = 0 KH",
+            "description":"1 Glas (2dl)",
+            "value": 0.0,
             "imagepath":"tea.jpg"
         }
     ]
@@ -600,7 +670,8 @@
     "name":"Tomaten",
     "children":[
         {
-            "description":"1 stk. = 3 KH",
+            "description":"1 stk.",
+            "value": 3.0,
             "imagepath":"tomato.jpg"
         }
     ]
@@ -609,7 +680,8 @@
     "name":"Tortilla wrap",
     "children":[
         {
-            "description":"1 stk. = 21 KH",
+            "description":"1 stk.",
+            "value": 21.0,
             "imagepath":"tortilla.jpg"
         }
     ]
@@ -618,7 +690,8 @@
     "name":"Walnüsse",
     "children":[
         {
-            "description":"1 Hand /15stk. = 3 KH",
+            "description":"1 Hand /15stk.",
+            "value": 3.0,
             "imagepath":"walnuts.jpg"
         }
     ]
@@ -627,11 +700,13 @@
     "name":"Wein",
     "children":[
         {
-            "description":"rot 1 Glas (1dl) = 4 KH",
+            "description":"rot 1 Glas (1dl)",
+            "value": 4.0,
             "imagepath":"wine1.jpg"
         },
         {
-            "description":"weiss 1 glas (1dl) = 4 KH",
+            "description":"weiss 1 glas (1dl)",
+            "value": 4.0,
             "imagepath":"wine2.jpg"
         }
     ]
@@ -640,11 +715,13 @@
     "name":"Joghurt",
     "children":[
         {
-            "description":"150g nature = 6 KH",
+            "description":"150g nature",
+            "value": 6.0,
             "imagepath":"yogurt1.jpg"
         },
         {
-            "description":"150g frucht = 23 KH",
+            "description":"150g frucht",
+            "value": 23.0,
             "imagepath":"yogurt2.jpg"
         }
     ]
@@ -653,7 +730,8 @@
     "name":"Zucchini",
     "children":[
         {
-            "description":"1 stk. = 6 KH",
+            "description":"1 stk.",
+            "value": 6.0,
             "imagepath":"zucchini.jpg"
         }
     ]
@@ -662,7 +740,8 @@
     "name":"Zwieback",
     "children":[
         {
-            "description":"1 stk. = 7 KH",
+            "description":"1 stk.",
+            "value": 7.0,
             "imagepath":"zwieback.jpg"
         }
     ]
@@ -671,11 +750,13 @@
         "name":"Basler Leckerli",
         "children":[
             {
-                "description":"1 stk. = 6 KH",
+                "description":"1 stk",
+                "value": 6.0,
                 "imagepath":"basler leckerli1.jpg"
             },
             {
-                "description":"3 stk. = 20 KH",
+                "description":"3 stk.",
+                "value": 20.0,
                 "imagepath":"basler leckerli2.jpg"
             }
         ]
@@ -684,7 +765,8 @@
     "name":"Praline",
     "children":[
         {
-            "description":"1 stk. = 7 KH",
+            "description":"1 stk.",
+            "value": 7.0,
             "imagepath":"praline.jpg"
         }
     ]
