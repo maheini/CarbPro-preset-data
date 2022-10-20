@@ -4,7 +4,7 @@
       "children": [
         {
           "description": "1 Apfel",
-          "value": 12,
+          "value": 12.0,
           "imagepath": "apfel.jpg"
         }
       ]
@@ -14,7 +14,7 @@
       "children": [
         {
           "description": "1 Banane",
-          "value": 30,
+          "value": 30.0,
           "imagepath": "banane.jpg"
         }
       ]
@@ -24,7 +24,7 @@
       "children": [
         {
           "description": "1 Berliner",
-          "value": 35,
+          "value": 35.0,
           "imagepath": "berliner.jpg"
         }
       ]
@@ -34,7 +34,7 @@
       "children": [
         {
           "description": "1 Birne",
-          "value": 12,
+          "value": 12.0,
           "imagepath": "birne.jpg"
         }
       ]
@@ -44,12 +44,12 @@
       "children": [
         {
           "description": "1 Stück",
-          "value": 13,
+          "value": 13.0,
           "imagepath": "brot-dunkel.jpg"
         },
         {
           "description": "1 Stück",
-          "value": 15,
+          "value": 15.0,
           "imagepath": "brot-hell.jpg"
         },
         {
@@ -59,7 +59,7 @@
         },
         {
           "description": "1 Bagel",
-          "value": 15,
+          "value": 15.0,
           "imagepath": "bagel.jpg"
         }
       ]
@@ -69,12 +69,12 @@
       "children": [
         {
           "description": "1 Schokolade",
-          "value": 45,
+          "value": 45.0,
           "imagepath": "schokogipfel.jpg"
         },
         {
           "description": "1 Butter",
-          "value": 20,
+          "value": 20.0,
           "imagepath": "buttergipfel.jpg"
         }
       ]
@@ -84,7 +84,7 @@
       "children": [
         {
           "description": "1 Donut",
-          "value": 20,
+          "value": 20.0,
           "imagepath": "donut.jpg"
         }
       ]
@@ -94,7 +94,7 @@
       "children": [
         {
           "description": "1 Kiwi",
-          "value": 5,
+          "value": 5.0,
           "imagepath": "kiwi.jpg"
         }
       ]
@@ -104,7 +104,7 @@
       "children": [
         {
           "description": "1 Schnitte",
-          "value": 10,
+          "value": 10.0,
           "imagepath": "milchschnitte.jpg"
         }
       ]
@@ -114,7 +114,7 @@
       "children": [
         {
           "description": "1 Orange",
-          "value": 15,
+          "value": 15.0,
           "imagepath": "orange.jpg"
         }
       ]
@@ -124,7 +124,7 @@
       "children": [
         {
           "description": "1 Raffaello",
-          "value": 4,
+          "value": 4.0,
           "imagepath": "raffaello.jpg"
         }
       ]
@@ -134,7 +134,7 @@
       "children": [
         {
           "description": "1 Tafel",
-          "value": 60,
+          "value": 60.0,
           "imagepath": "schokolade.jpg"
         }
       ]
@@ -144,7 +144,7 @@
       "children": [
         {
           "description": "1 Stick",
-          "value": 5,
+          "value": 5.0,
           "imagepath": "zucker.jpg"
         }
       ]
@@ -154,7 +154,7 @@
       "children": [
         {
           "description": "1 Hand /15stk.",
-          "value": 1,
+          "value": 1.0,
           "imagepath": "almonds.jpg"
         }
       ]
@@ -164,7 +164,7 @@
       "children": [
         {
           "description": "1 Scheibe",
-          "value": 11,
+          "value": 11.0,
           "imagepath": "ananas.jpg"
         }
       ]
@@ -174,7 +174,7 @@
       "children": [
         {
           "description": "1 Becher (2dl)",
-          "value": 20,
+          "value": 20.0,
           "imagepath": "apple juice.jpg"
         }
       ]
@@ -184,7 +184,7 @@
       "children": [
         {
           "description": "1 stk.",
-          "value": 6,
+          "value": 6.0,
           "imagepath": "apricot.jpg"
         }
       ]
@@ -194,7 +194,7 @@
       "children": [
         {
           "description": "1/2 stk.",
-          "value": 0,
+          "value": 0.0,
           "imagepath": "avocado.jpg"
         }
       ]
@@ -204,7 +204,7 @@
       "children": [
         {
           "description": "1 Schüssel",
-          "value": 15,
+          "value": 15.0,
           "imagepath": "beans.jpg"
         }
       ]
@@ -234,7 +234,7 @@
       "children": [
         {
           "description": "1 Riegel",
-          "value": 17,
+          "value": 17.0,
           "imagepath": "bounty.jpg"
         }
       ]
@@ -244,7 +244,7 @@
       "children": [
         {
           "description": "1 stk.",
-          "value": 44,
+          "value": 44.0,
           "imagepath": "bread roll.jpg"
         }
       ]
@@ -254,7 +254,7 @@
       "children": [
         {
           "description": "1 Broccoli",
-          "value": 13,
+          "value": 13.0,
           "imagepath": "broccoli.jpg"
         }
       ]
@@ -264,7 +264,7 @@
       "children": [
         {
           "description": "1 Becher (2dl)",
-          "value": 74,
+          "value": 74.0,
           "imagepath": "caipirinha.jpg"
         }
       ]
@@ -274,7 +274,7 @@
       "children": [
         {
           "description": "1 Schoko",
-          "value": 40,
+          "value": 40.0,
           "imagepath": "cake.jpg"
         }
       ]
@@ -284,7 +284,7 @@
       "children": [
         {
           "description": "1 Möhre",
-          "value": 4,
+          "value": 4.0,
           "imagepath": "carrot.jpg"
         }
       ]
@@ -294,7 +294,7 @@
       "children": [
         {
           "description": "1 Hand /15stk.",
-          "value": 12,
+          "value": 12.0,
           "imagepath": "cashew nut.jpg"
         }
       ]
@@ -304,7 +304,7 @@
       "children": [
         {
           "description": "1 Kohl",
-          "value": 13,
+          "value": 13.0,
           "imagepath": "cauliflower.jpg"
         }
       ]
@@ -324,7 +324,7 @@
       "children": [
         {
           "description": "1 Dose (3.3dl)",
-          "value": 33,
+          "value": 33.0,
           "imagepath": "cola.jpg"
         }
       ]
@@ -334,7 +334,7 @@
       "children": [
         {
           "description": "1 Essiggurke",
-          "value": 2,
+          "value": 2.0,
           "imagepath": "cucumber1.jpg"
         },
         {
@@ -349,7 +349,7 @@
       "children": [
         {
           "description": "1 Ei",
-          "value": 1,
+          "value": 1.0,
           "imagepath": "egg.jpg"
         }
       ]
@@ -359,7 +359,7 @@
       "children": [
         {
           "description": "1 stk.",
-          "value": 10,
+          "value": 10.0,
           "imagepath": "eggplant.jpg"
         }
       ]
@@ -369,7 +369,7 @@
       "children": [
         {
           "description": "1 Dose (3.3dl)",
-          "value": 30,
+          "value": 30.0,
           "imagepath": "fanta.jpg"
         }
       ]
@@ -379,7 +379,7 @@
       "children": [
         {
           "description": "5 stk.",
-          "value": 20,
+          "value": 20.0,
           "imagepath": "fish fingers.jpg"
         }
       ]
@@ -389,7 +389,7 @@
       "children": [
         {
           "description": "1 Hand /15stk.",
-          "value": 1,
+          "value": 1.0,
           "imagepath": "hazelnut.jpg"
         }
       ]
@@ -399,12 +399,12 @@
       "children": [
         {
           "description": "1 Kugel",
-          "value": 14,
+          "value": 14.0,
           "imagepath": "ice cream ball.jpg"
         },
         {
           "description": "1 Eis",
-          "value": 30,
+          "value": 30.0,
           "imagepath": "ice cream.jpg"
         }
       ]
@@ -414,7 +414,7 @@
       "children": [
         {
           "description": "1 stk.",
-          "value": 5,
+          "value": 5.0,
           "imagepath": "leek.jpg"
         }
       ]
@@ -444,7 +444,7 @@
       "children": [
         {
           "description": "1 mittelgrosse",
-          "value": 27,
+          "value": 27.0,
           "imagepath": "mango.jpg"
         }
       ]
@@ -454,7 +454,7 @@
       "children": [
         {
           "description": "1 Riegel",
-          "value": 35,
+          "value": 35.0,
           "imagepath": "mars.jpg"
         }
       ]
@@ -464,12 +464,12 @@
       "children": [
         {
           "description": "1 Honigmelone",
-          "value": 65,
+          "value": 65.0,
           "imagepath": "melon1.jpg"
         },
         {
           "description": "1 Scheibe Wassermelone",
-          "value": 13,
+          "value": 13.0,
           "imagepath": "melon2.jpg"
         }
       ]
@@ -479,7 +479,7 @@
       "children": [
         {
           "description": "1 Glas (2dl)",
-          "value": 10,
+          "value": 10.0,
           "imagepath": "milk.jpg"
         }
       ]
@@ -489,7 +489,7 @@
       "children": [
         {
           "description": "1 Muffin",
-          "value": 25,
+          "value": 25.0,
           "imagepath": "muffin.jpg"
         }
       ]
@@ -499,7 +499,7 @@
       "children": [
         {
           "description": "1 Glas (2dl)",
-          "value": 30,
+          "value": 30.0,
           "imagepath": "mulled wine.jpg"
         }
       ]
@@ -509,7 +509,7 @@
       "children": [
         {
           "description": "1 stk.",
-          "value": 14,
+          "value": 14.0,
           "imagepath": "nectarine.jpg"
         }
       ]
@@ -519,7 +519,7 @@
       "children": [
         {
           "description": "Sonnenblumenöl",
-          "value": 0,
+          "value": 0.0,
           "imagepath": "oil.jpg"
         }
       ]
@@ -529,7 +529,7 @@
       "children": [
         {
           "description": "1 Glas (2dl)",
-          "value": 20,
+          "value": 20.0,
           "imagepath": "orange juice.jpg"
         }
       ]
@@ -539,7 +539,7 @@
       "children": [
         {
           "description": "1 Glas (2dl)",
-          "value": 22,
+          "value": 22.0,
           "imagepath": "ananas juice.jpg"
         }
       ]
@@ -549,7 +549,7 @@
       "children": [
         {
           "description": "1 stk.",
-          "value": 12,
+          "value": 12.0,
           "imagepath": "peach.jpg"
         }
       ]
@@ -559,7 +559,7 @@
       "children": [
         {
           "description": "1 kleine portion",
-          "value": 8,
+          "value": 8.0,
           "imagepath": "peas.jpg"
         }
       ]
@@ -569,7 +569,7 @@
       "children": [
         {
           "description": "1 Hand /15stk.",
-          "value": 4,
+          "value": 4.0,
           "imagepath": "pistachios.jpg"
         }
       ]
@@ -579,7 +579,7 @@
       "children": [
         {
           "description": "1 mittelgrosse",
-          "value": 15,
+          "value": 15.0,
           "imagepath": "potato.jpg"
         }
       ]
@@ -589,7 +589,7 @@
       "children": [
         {
           "description": "250g",
-          "value": 9,
+          "value": 9.0,
           "imagepath": "quark.jpg"
         }
       ]
@@ -609,7 +609,7 @@
       "children": [
         {
           "description": "1 Portion",
-          "value": 47,
+          "value": 47.0,
           "imagepath": "rice.jpg"
         }
       ]
@@ -619,7 +619,7 @@
       "children": [
         {
           "description": "1 Schüssel",
-          "value": 2,
+          "value": 2.0,
           "imagepath": "salad.jpg"
         }
       ]
@@ -629,7 +629,7 @@
       "children": [
         {
           "description": "1 Riegel",
-          "value": 31,
+          "value": 31.0,
           "imagepath": "snickers.jpg"
         }
       ]
@@ -639,7 +639,7 @@
       "children": [
         {
           "description": "1 Schüssel",
-          "value": 2,
+          "value": 2.0,
           "imagepath": "spinach.jpg"
         }
       ]
@@ -659,7 +659,7 @@
       "children": [
         {
           "description": "1 Glas (2dl)",
-          "value": 0,
+          "value": 0.0,
           "imagepath": "tea.jpg"
         }
       ]
@@ -669,7 +669,7 @@
       "children": [
         {
           "description": "1 stk.",
-          "value": 3,
+          "value": 3.0,
           "imagepath": "tomato.jpg"
         }
       ]
@@ -679,7 +679,7 @@
       "children": [
         {
           "description": "1 stk.",
-          "value": 21,
+          "value": 21.0,
           "imagepath": "tortilla.jpg"
         }
       ]
@@ -689,7 +689,7 @@
       "children": [
         {
           "description": "1 Hand /15stk.",
-          "value": 3,
+          "value": 3.0,
           "imagepath": "walnuts.jpg"
         }
       ]
@@ -699,12 +699,12 @@
       "children": [
         {
           "description": "rot 1 Glas (1dl)",
-          "value": 4,
+          "value": 4.0,
           "imagepath": "wine1.jpg"
         },
         {
           "description": "weiss 1 glas (1dl)",
-          "value": 4,
+          "value": 4.0,
           "imagepath": "wine2.jpg"
         }
       ]
@@ -714,12 +714,12 @@
       "children": [
         {
           "description": "150g nature",
-          "value": 6,
+          "value": 6.0,
           "imagepath": "yogurt1.jpg"
         },
         {
           "description": "150g frucht",
-          "value": 23,
+          "value": 23.0,
           "imagepath": "yogurt2.jpg"
         }
       ]
@@ -729,7 +729,7 @@
       "children": [
         {
           "description": "1 stk.",
-          "value": 6,
+          "value": 6.0,
           "imagepath": "zucchini.jpg"
         }
       ]
@@ -739,7 +739,7 @@
       "children": [
         {
           "description": "1 stk.",
-          "value": 7,
+          "value": 7.0,
           "imagepath": "zwieback.jpg"
         }
       ]
@@ -749,12 +749,12 @@
       "children": [
         {
           "description": "1 stk",
-          "value": 6,
+          "value": 6.0,
           "imagepath": "basler leckerli1.jpg"
         },
         {
           "description": "3 stk.",
-          "value": 20,
+          "value": 20.0,
           "imagepath": "basler leckerli2.jpg"
         }
       ]
@@ -764,7 +764,7 @@
       "children": [
         {
           "description": "1 stk.",
-          "value": 7,
+          "value": 7.0,
           "imagepath": "praline.jpg"
         }
       ]
@@ -774,12 +774,12 @@
       "children": [
         {
           "description": "1 Hand voll",
-          "value": 11,
+          "value": 11.0,
           "imagepath": "chips_20g.jpg"
         },
         {
           "description": "1 Portion",
-          "value": 16,
+          "value": 16.0,
           "imagepath": "chips_30g.jpg"
         }
       ]
