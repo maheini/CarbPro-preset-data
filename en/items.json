@@ -748,5 +748,90 @@
         "imagepath": "chips_30g.jpg"
       }
     ]
+  },
+  {
+    "name": "Big Mac",
+    "children": [
+      {
+        "description": "1 Big Mac",
+        "value": 45.0,
+        "imagepath": "big mac.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Cheeseburger",
+    "children": [
+      {
+        "description": "1 Cheeseburger",
+        "value": 33.0,
+        "imagepath": "cheeseburger.jpg"
+      },
+      {
+        "description": "1 Double Cheeseburger",
+        "value": 34.0,
+        "imagepath": "double cheeseburger.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Hamburger",
+    "children": [
+      {
+        "description": "1 Hamburger",
+        "value": 31.0,
+        "imagepath": "hamburger.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Chicken Nuggets",
+    "children": [
+      {
+        "description": "6 pcs.",
+        "value": 18.0,
+        "imagepath": "chicken nuggets.jpg"
+      }
+    ]
+  },
+  {
+    "name": "McChicken",
+    "children": [
+      {
+        "description": "1 McChicken",
+        "value": 40.0,
+        "imagepath": "mcchicken.jpg"
+      }
+    ]
+  },
+  {
+    "name": "French fries",
+    "children": [
+      {
+        "description": "1 small portion",
+        "value": 29.0,
+        "imagepath": "small french fries.jpg"
+      },
+      {
+        "description": "1 medium portion",
+        "value": 48.0,
+        "imagepath": "medium french fries.jpg"
+      },
+      {
+        "description": "1 large portion",
+        "value": 63.0,
+        "imagepath": "large french fries.jpg"
+      }
+    ]
+  },
+  {
+    "name": "McFlurry",
+    "children": [
+      {
+        "description": "Oreo medium size",
+        "value": 90.0,
+        "imagepath": "oreo mcflurry.jpg"
+      }
+    ]
   }
 ]
