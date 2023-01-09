@@ -4,7 +4,7 @@
     "children": [
       {
         "description": "1 apple",
-        "value": 12.0,
+        "value": 18.0,
         "imagepath": "apfel.jpg"
       }
     ]
@@ -34,7 +34,7 @@
     "children": [
       {
         "description": "1 pear",
-        "value": 12.0,
+        "value": 18.0,
         "imagepath": "birne.jpg"
       }
     ]
@@ -59,7 +59,7 @@
       },
       {
         "description": "1 bagel",
-        "value": 15.0,
+        "value": 25.0,
         "imagepath": "bagel.jpg"
       }
     ]
@@ -74,7 +74,7 @@
       },
       {
         "description": "1 butter",
-        "value": 20.0,
+        "value": 25.0,
         "imagepath": "buttergipfel.jpg"
       }
     ]
@@ -84,7 +84,7 @@
     "children": [
       {
         "description": "1 donut",
-        "value": 20.0,
+        "value": 22.0,
         "imagepath": "donut.jpg"
       }
     ]
@@ -94,7 +94,7 @@
     "children": [
       {
         "description": "1 kiwi",
-        "value": 5.0,
+        "value": 6.0,
         "imagepath": "kiwi.jpg"
       }
     ]
@@ -144,7 +144,7 @@
     "children": [
       {
         "description": "1 hand /15pcs",
-        "value": 1.0,
+        "value": 1.5,
         "imagepath": "almonds.jpg"
       }
     ]
@@ -153,7 +153,7 @@
     "name": "Ananas",
     "children": [
       {
-        "description": "1 slice = 11",
+        "description": "1 slice",
         "value": 11.0,
         "imagepath": "ananas.jpg"
       }
@@ -164,7 +164,7 @@
     "children": [
       {
         "description": "1 cup (2dl)",
-        "value": 20.0,
+        "value": 22.0,
         "imagepath": "apple juice.jpg"
       }
     ]
@@ -174,7 +174,7 @@
     "children": [
       {
         "description": "1 pcs",
-        "value": 6.0,
+        "value": 4.5,
         "imagepath": "apricot.jpg"
       }
     ]
@@ -194,7 +194,7 @@
     "children": [
       {
         "description": "1 bowl",
-        "value": 15.0,
+        "value": 11.0,
         "imagepath": "beans.jpg"
       }
     ]
@@ -234,7 +234,7 @@
     "children": [
       {
         "description": "1 roll",
-        "value": 44.0,
+        "value": 38.0,
         "imagepath": "bread roll.jpg"
       }
     ]
@@ -254,7 +254,7 @@
     "children": [
       {
         "description": "1 cup (2dl)",
-        "value": 74.0,
+        "value": 40.0,
         "imagepath": "caipirinha.jpg"
       }
     ]
@@ -264,7 +264,7 @@
     "children": [
       {
         "description": "1 chocolate",
-        "value": 40.0,
+        "value": 38.0,
         "imagepath": "cake.jpg"
       }
     ]
@@ -274,7 +274,7 @@
     "children": [
       {
         "description": "1 carrot",
-        "value": 4.0,
+        "value": 7.0,
         "imagepath": "carrot.jpg"
       }
     ]
@@ -284,7 +284,7 @@
     "children": [
       {
         "description": "1 hand /15pcs",
-        "value": 12.0,
+        "value": 10.0,
         "imagepath": "cashew nut.jpg"
       }
     ]
@@ -294,7 +294,7 @@
     "children": [
       {
         "description": "1 cauliflower",
-        "value": 13.0,
+        "value": 14.0,
         "imagepath": "cauliflower.jpg"
       }
     ]
@@ -304,7 +304,7 @@
     "children": [
       {
         "description": "2 pcs",
-        "value": 2.1,
+        "value": 2.5,
         "imagepath": "cherry.jpg"
       }
     ]
@@ -339,7 +339,7 @@
     "children": [
       {
         "description": "1 egg",
-        "value": 1.0,
+        "value": 0.5,
         "imagepath": "egg.jpg"
       }
     ]
@@ -349,7 +349,7 @@
     "children": [
       {
         "description": "1 pcs",
-        "value": 10.0,
+        "value": 8.0,
         "imagepath": "eggplant.jpg"
       }
     ]
@@ -479,7 +479,7 @@
     "children": [
       {
         "description": "1 muffin",
-        "value": 25.0,
+        "value": 35.0,
         "imagepath": "muffin.jpg"
       }
     ]
@@ -669,7 +669,7 @@
     "children": [
       {
         "description": "1 pcs",
-        "value": 21.0,
+        "value": 34.0,
         "imagepath": "tortilla.jpg"
       }
     ]
